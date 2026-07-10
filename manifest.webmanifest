@@ -1,0 +1,24 @@
+{
+  "name": "TübingenTalks",
+  "short_name": "Talks",
+  "description": "Swipe through upcoming public talks and events around the University of Tübingen.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#f6f5f1",
+  "theme_color": "#a11e3b",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/maskable-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

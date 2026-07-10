@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-07-10T14:33:47+02:00",
+  "sources": [
+    {
+      "id": "main-university-calendar",
+      "name": "Main university calendar",
+      "type": "rss",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "rssUrl": "",
+      "selectable": true,
+      "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg"
+    },
+    {
+      "id": "cognitive-science",
+      "name": "Cognitive Science",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/cognitive-science/",
+      "selectable": true,
+      "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg"
+    },
+    {
+      "id": "startup-center",
+      "name": "Startup Center",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/exzellenzstrategie/transfer/startup-center/",
+      "selectable": true,
+      "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg"
+    },
+    {
+      "id": "geoenviron-seminar",
+      "name": "GeoEnviron Seminar",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/fachbereich/aktuelles/forschungskolloquien-und-seminare/geoenviron-seminar/",
+      "selectable": true,
+      "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg"
+    },
+    {
+      "id": "friday-talks",
+      "name": "Friday Talks",
+      "type": "html",
+      "url": "https://fridaytalks.github.io/",
+      "selectable": true,
+      "hostLogo": "assets/icon.svg"
+    },
+    {
+      "id": "ellis-institute",
+      "name": "ELLIS Institute",
+      "type": "html",
+      "url": "https://institute-tue.ellis.eu/events",
+      "selectable": true,
+      "hostLogo": "https://institute-tue.ellis.eu/assets/logos/ellis-insittute-logo-vertical-white-c30824038fa15bab8c534bd1a9abde8d9db9b1aceb3b159280a7bfd61d6e9400.png"
+    },
+    {
+      "id": "mpi-is",
+      "name": "MPI-IS",
+      "type": "html",
+      "url": "https://is.mpg.de/events",
+      "selectable": true,
+      "hostLogo": "assets/icon.svg"
+    },
+    {
+      "id": "cyber-valley",
+      "name": "Cyber Valley",
+      "type": "html",
+      "url": "https://cyber-valley.de/en/events",
+      "selectable": true,
+      "hostLogo": "assets/icon.svg"
+    },
+    {
+      "id": "college-of-fellows",
+      "name": "College of Fellows",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/forschung/zentren-und-institute/college-of-fellows/events/",
+      "selectable": true,
+      "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg"
+    },
+    {
+      "id": "tuebingen-talks",
+      "name": "Tübingen Talks",
+      "type": "aggregator",
+      "url": "https://talks.tuebingen.ai/talks",
+      "selectable": false,
+      "hostLogo": "assets/icon.svg"
+    }
+  ]
+}

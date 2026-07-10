@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="TübingenTalks">
+  <rect width="512" height="512" fill="#a11e3b"/>
+  <circle cx="256" cy="256" r="178" fill="#ffffff"/>
+  <path d="M156 168h200v142h-76l-50 46v-46h-74z" fill="#32414b"/>
+  <path d="M188 210h136v22H188zm0 52h96v22h-96z" fill="#ffffff"/>
+</svg>

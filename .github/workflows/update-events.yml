@@ -1,0 +1,39 @@
+name: Update events
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-events:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update event JSON
+        run: python scripts/scrape_events.py
+
+      - name: Validate generated JSON
+        run: |
+          python -m json.tool data/events.json > /tmp/events.json
+          python -m json.tool data/sources.json > /tmp/sources.json
+
+      - name: Commit changes
+        run: |
+          if [[ -n "$(git status --porcelain data/events.json data/sources.json)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/events.json data/sources.json
+            git commit -m "Update event feed"
+            git push
+          else
+            echo "No event feed changes."
+          fi
