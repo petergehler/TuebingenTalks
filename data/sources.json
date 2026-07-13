@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T09:42:01+02:00",
+  "generatedAt": "2026-07-13T13:22:50+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -71,6 +71,54 @@
       "name": "College of Fellows",
       "type": "html",
       "url": "https://uni-tuebingen.de/forschung/zentren-und-institute/college-of-fellows/events/",
+      "selectable": true,
+      "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg"
+    },
+    {
+      "id": "physical-colloquium",
+      "name": "Physikalisches Kolloquium",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/kolloquium/semester-archiv/physikalisches-kolloquium-ss26/",
+      "selectable": true,
+      "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg"
+    },
+    {
+      "id": "cq-seminar",
+      "name": "CQ-Seminar",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/forschung/center-for-quantum-science/cq-seminar/",
+      "selectable": true,
+      "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg"
+    },
+    {
+      "id": "math-calendar",
+      "name": "Mathematics Veranstaltungskalender",
+      "type": "html",
+      "url": "https://www.math.uni-tuebingen.de/math/de/aktuelles/veranstaltungskalender",
+      "selectable": true,
+      "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg"
+    },
+    {
+      "id": "erich-kamke-colloquium",
+      "name": "Erich Kamke Kolloquium",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/mathematik/fachbereich/aktuelles/erich-kamke-kolloquium/",
+      "selectable": true,
+      "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg"
+    },
+    {
+      "id": "izew-events",
+      "name": "IZEW Veranstaltungen",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/forschung/zentren-und-institute/internationales-zentrum-fuer-ethik-in-den-wissenschaften/das-izew/veranstaltungen/aktuelle-veranstaltungen/",
+      "selectable": true,
+      "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg"
+    },
+    {
+      "id": "tfw-events",
+      "name": "Tübinger Forum für Wissenschaftskulturen",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/forschung/zentren-und-institute/tuebinger-forum-fuer-wissenschaftskulturen-tfw/veranstaltungen/",
       "selectable": true,
       "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg"
     },
