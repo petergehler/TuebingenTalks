@@ -1,6 +1,6 @@
 {
-  "version": "2026-07-13T09:42:01+02:00",
-  "generatedAt": "2026-07-13T09:42:01+02:00",
+  "version": "2026-07-14T08:27:02+02:00",
+  "generatedAt": "2026-07-14T08:27:02+02:00",
   "events": [
     {
       "id": "cognitive-science-avatars-2026-07-14",
@@ -25,7 +25,7 @@
       "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-07-10T00:00:00+02:00",
-      "updatedAt": "2026-07-13T09:42:01+02:00"
+      "updatedAt": "2026-07-14T08:27:02+02:00"
     },
     {
       "id": "friday-talks-defamation-2026-07-17",
@@ -49,7 +49,7 @@
       "hostLogo": "assets/icon.svg",
       "imageUrl": "",
       "scrapedAt": "2026-07-10T00:00:00+02:00",
-      "updatedAt": "2026-07-13T09:42:01+02:00"
+      "updatedAt": "2026-07-14T08:27:02+02:00"
     },
     {
       "id": "geoenviron-seminar-water-2026-07-20",
@@ -73,7 +73,7 @@
       "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-07-10T00:00:00+02:00",
-      "updatedAt": "2026-07-13T09:42:01+02:00"
+      "updatedAt": "2026-07-14T08:27:02+02:00"
     },
     {
       "id": "ellis-institute-robust-learning-2026-07-22",
@@ -97,7 +97,7 @@
       "hostLogo": "https://institute-tue.ellis.eu/assets/logos/ellis-insittute-logo-vertical-white-c30824038fa15bab8c534bd1a9abde8d9db9b1aceb3b159280a7bfd61d6e9400.png",
       "imageUrl": "",
       "scrapedAt": "2026-07-10T00:00:00+02:00",
-      "updatedAt": "2026-07-13T09:42:01+02:00"
+      "updatedAt": "2026-07-14T08:27:02+02:00"
     },
     {
       "id": "startup-center-founder-talk-2026-07-23",
@@ -120,7 +120,7 @@
       "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-07-10T00:00:00+02:00",
-      "updatedAt": "2026-07-13T09:42:01+02:00"
+      "updatedAt": "2026-07-14T08:27:02+02:00"
     },
     {
       "id": "main-university-calendar-public-lecture-2026-07-27",
@@ -144,7 +144,7 @@
       "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-07-10T00:00:00+02:00",
-      "updatedAt": "2026-07-13T09:42:01+02:00"
+      "updatedAt": "2026-07-14T08:27:02+02:00"
     },
     {
       "id": "mpi-is-soft-robots-2026-07-29",
@@ -168,7 +168,7 @@
       "hostLogo": "assets/icon.svg",
       "imageUrl": "",
       "scrapedAt": "2026-07-10T00:00:00+02:00",
-      "updatedAt": "2026-07-13T09:42:01+02:00"
+      "updatedAt": "2026-07-14T08:27:02+02:00"
     },
     {
       "id": "college-of-fellows-culture-2026-08-03",
@@ -192,7 +192,7 @@
       "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-07-10T00:00:00+02:00",
-      "updatedAt": "2026-07-13T09:42:01+02:00"
+      "updatedAt": "2026-07-14T08:27:02+02:00"
     }
   ]
 }
