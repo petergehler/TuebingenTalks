@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 150" role="img" aria-labelledby="title">
+  <title id="title">Friday Talks</title>
+  <g fill="#ffffff">
+    <path d="M40 36h86v21H65v20h51v20H65v43H40V36Z"/>
+    <path d="M137 63h22l2 13c5-10 13-15 24-15 3 0 6 0 9 1v23c-4-1-8-2-12-2-14 0-21 8-21 24v33h-24V63Z"/>
+    <path d="M204 63h24v77h-24V63Zm-1-28h26v20h-26V35Z"/>
+    <path d="M278 61c10 0 18 4 23 11V32h24v108h-20l-2-10c-5 8-14 12-25 12-22 0-37-17-37-41s15-40 37-40Zm6 21c-11 0-19 8-19 19s8 20 19 20 19-8 19-20-8-19-19-19Z"/>
+    <path d="M351 64h24v76h-24V64Zm-1-29h26v20h-26V35Z"/>
+  </g>
+</svg>

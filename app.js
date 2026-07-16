@@ -1,7 +1,78 @@
 const STORE_KEY = "tuebingenTalksState.v1";
 const CACHE_FEED_KEY = "tuebingenTalksCachedFeed.v1";
 const DEFAULT_CALENDAR = "ics";
+const DEFAULT_LANGUAGE = "en";
 const SOURCE_COLOR_CLASSES = ["#283f55", "#3f3d47", "#23624f", "#6b5334", "#374151"];
+const I18N = {
+  en: {
+    addToCalendar: "Add to calendar",
+    all: "All",
+    appLanguage: "App language",
+    calendar: "Calendar",
+    defaultAddAction: "Default add action",
+    emptyNoSources: "No events match your sources",
+    emptyNoSourcesCopy: "Enable more sources in settings to widen the feed.",
+    emptySeenAll: "You have seen all matching events",
+    emptySeenAllCopy: "Revisit interested events or reset swipes to return events to the deck.",
+    feed: "Feed",
+    feedError: "Feed error: {error}",
+    feedLoaded: "Feed loaded.",
+    googleCalendar: "Google Calendar",
+    icsEvent: "ICS event",
+    interested: "Interested",
+    language: "Language",
+    lastUpdated: "Last updated {date}",
+    loadingEvents: "Loading events...",
+    locationTba: "Location TBA",
+    noAbstract: "No abstract available yet.",
+    noFeed: "No feed loaded yet.",
+    openSettings: "Open settings",
+    revisitInterested: "Revisit interested",
+    resetSwipes: "Reset swipes",
+    settings: "Settings",
+    skip: "Skip",
+    source: "Source",
+    sources: "Sources",
+    usingCachedFeed: "Using cached feed",
+    visibleEvents: "{count} future events match your settings",
+    when: "When",
+    where: "Where",
+  },
+  de: {
+    addToCalendar: "Zum Kalender hinzufügen",
+    all: "Alle",
+    appLanguage: "App-Sprache",
+    calendar: "Kalender",
+    defaultAddAction: "Standardaktion",
+    emptyNoSources: "Keine Termine passen zu deinen Quellen",
+    emptyNoSourcesCopy: "Aktiviere weitere Quellen in den Einstellungen, um den Feed zu erweitern.",
+    emptySeenAll: "Du hast alle passenden Termine gesehen",
+    emptySeenAllCopy: "Hole gemerkte Termine zurück oder setze deine Swipes zurück, um Termine erneut zu sehen.",
+    feed: "Feed",
+    feedError: "Feed-Fehler: {error}",
+    feedLoaded: "Feed geladen.",
+    googleCalendar: "Google Kalender",
+    icsEvent: "ICS-Termin",
+    interested: "Interessiert",
+    language: "Sprache",
+    lastUpdated: "Zuletzt aktualisiert: {date}",
+    loadingEvents: "Termine werden geladen...",
+    locationTba: "Ort folgt",
+    noAbstract: "Noch keine Zusammenfassung verfügbar.",
+    noFeed: "Noch kein Feed geladen.",
+    openSettings: "Einstellungen öffnen",
+    revisitInterested: "Gemerkte erneut ansehen",
+    resetSwipes: "Swipes zurücksetzen",
+    settings: "Einstellungen",
+    skip: "Überspringen",
+    source: "Quelle",
+    sources: "Quellen",
+    usingCachedFeed: "Zwischengespeicherter Feed",
+    visibleEvents: "{count} zukünftige Termine passen zu deinen Einstellungen",
+    when: "Wann",
+    where: "Wo",
+  },
+};
 
 const state = {
   events: [],
@@ -13,22 +84,30 @@ const state = {
   decisions: {},
   history: [],
   calendarDefault: DEFAULT_CALENDAR,
+  language: DEFAULT_LANGUAGE,
 };
 
 const els = {
   cardMount: document.querySelector("#cardMount"),
   feedStatus: document.querySelector("#feedStatus"),
   progressFill: document.querySelector("#progressFill"),
-  sourceChips: document.querySelector("#sourceChips"),
-  interestedList: document.querySelector("#interestedList"),
-  interestedCount: document.querySelector("#interestedCount"),
   settingsButton: document.querySelector("#settingsButton"),
   settingsDialog: document.querySelector("#settingsDialog"),
+  settingsTitle: document.querySelector("#settingsTitle"),
+  skipCue: document.querySelector("#skipCue"),
+  interestedCue: document.querySelector("#interestedCue"),
+  languageHeading: document.querySelector("#languageHeading"),
+  languageLabel: document.querySelector("#languageLabel"),
+  languageDefault: document.querySelector("#languageDefault"),
+  sourcesHeading: document.querySelector("#sourcesHeading"),
   settingsSources: document.querySelector("#settingsSources"),
+  calendarHeading: document.querySelector("#calendarHeading"),
+  calendarDefaultLabel: document.querySelector("#calendarDefaultLabel"),
   calendarDefault: document.querySelector("#calendarDefault"),
+  calendarOptionIcs: document.querySelector("#calendarOptionIcs"),
+  feedHeading: document.querySelector("#feedHeading"),
   feedMeta: document.querySelector("#feedMeta"),
   resetButton: document.querySelector("#resetButton"),
-  revisitInterestedButton: document.querySelector("#revisitInterestedButton"),
   revisitSettingsButton: document.querySelector("#revisitSettingsButton"),
   undoButton: document.querySelector("#undoButton"),
   allSourcesButton: document.querySelector("#allSourcesButton"),
@@ -57,6 +136,12 @@ function bindStaticEvents() {
     saveLocalState();
   });
 
+  els.languageDefault.addEventListener("change", () => {
+    state.language = validLanguage(els.languageDefault.value);
+    saveLocalState();
+    render();
+  });
+
   els.resetButton.addEventListener("click", () => {
     state.decisions = {};
     state.history = [];
@@ -64,7 +149,6 @@ function bindStaticEvents() {
     render();
   });
 
-  els.revisitInterestedButton.addEventListener("click", revisitInterested);
   els.revisitSettingsButton.addEventListener("click", revisitInterested);
 
   els.undoButton.addEventListener("click", undoLastDecision);
@@ -149,11 +233,13 @@ function loadLocalState() {
     state.decisions = saved.decisions || {};
     state.history = Array.isArray(saved.history) ? saved.history : [];
     state.calendarDefault = saved.calendarDefault || DEFAULT_CALENDAR;
+    state.language = validLanguage(saved.language || DEFAULT_LANGUAGE);
   } catch {
     state.selectedSources = new Set();
     state.decisions = {};
     state.history = [];
     state.calendarDefault = DEFAULT_CALENDAR;
+    state.language = DEFAULT_LANGUAGE;
   }
 }
 
@@ -165,6 +251,7 @@ function saveLocalState() {
       decisions: state.decisions,
       history: state.history.slice(-40),
       calendarDefault: state.calendarDefault,
+      language: state.language,
       lastFeedVersionSeen: state.feedMeta?.version || state.feedMeta?.generatedAt || null,
     })
   );
@@ -173,11 +260,33 @@ function saveLocalState() {
 function render() {
   state.filtered = getVisibleEvents();
   state.activeEvent = state.filtered[0] || null;
+  renderStaticText();
   renderCard();
-  renderSources();
-  renderInterested();
   renderFeedState();
   renderSettings();
+}
+
+function renderStaticText() {
+  document.documentElement.lang = state.language;
+  document.title = "TübingenTalks";
+  els.settingsTitle.textContent = t("settings");
+  els.settingsButton.setAttribute("aria-label", t("openSettings"));
+  els.settingsButton.title = t("settings");
+  els.undoButton.setAttribute("aria-label", state.language === "de" ? "Letzten Swipe rückgängig machen" : "Undo last swipe");
+  els.undoButton.title = state.language === "de" ? "Rückgängig" : "Undo";
+  els.skipCue.textContent = t("skip");
+  els.interestedCue.textContent = t("interested");
+  els.languageHeading.textContent = t("language");
+  els.languageLabel.textContent = t("appLanguage");
+  els.sourcesHeading.textContent = t("sources");
+  els.allSourcesButton.textContent = t("all");
+  els.calendarHeading.textContent = t("calendar");
+  els.calendarDefaultLabel.textContent = t("defaultAddAction");
+  els.calendarOptionIcs.textContent = t("icsEvent");
+  els.calendarDefault.querySelector('[value="google"]').textContent = t("googleCalendar");
+  els.feedHeading.textContent = t("feed");
+  els.revisitSettingsButton.textContent = t("revisitInterested");
+  els.resetButton.textContent = t("resetSwipes");
 }
 
 function getVisibleEvents() {
@@ -208,10 +317,19 @@ function renderCard() {
 
   fragment.querySelector(".hero-title").textContent = state.activeEvent.title;
   fragment.querySelector(".hero-speaker").textContent = formatSpeaker(state.activeEvent);
-  fragment.querySelector(".abstract").textContent = state.activeEvent.abstract || "No abstract available yet.";
-  fragment.querySelector('[data-field="source"]').textContent = state.activeEvent.sourceName;
+  fragment.querySelector(".abstract").textContent = state.activeEvent.abstract || t("noAbstract");
+  fragment.querySelector('[data-i18n="addToCalendar"]').textContent = t("addToCalendar");
+  const detailLabels = fragment.querySelectorAll(".bottom-detail span");
+  detailLabels[0].textContent = t("source");
+  detailLabels[1].textContent = t("when");
+  detailLabels[2].textContent = t("where");
+  const sourceLink = fragment.querySelector('[data-field="source"]');
+  sourceLink.textContent = state.activeEvent.sourceName;
+  sourceLink.href = state.activeEvent.sourceUrl || state.activeEvent.eventUrl || "#";
+  sourceLink.target = "_blank";
+  sourceLink.rel = "noreferrer";
   fragment.querySelector('[data-field="when"]').textContent = formatWhen(state.activeEvent);
-  fragment.querySelector('[data-field="where"]').textContent = state.activeEvent.location || "Location TBA";
+  fragment.querySelector('[data-field="where"]').textContent = state.activeEvent.location || t("locationTba");
 
   heroBand.style.background = colorForSource(state.activeEvent.sourceId);
 
@@ -222,7 +340,18 @@ function renderCard() {
     eventImage.hidden = true;
   }
 
-  logo.src = state.activeEvent.hostLogo || sourceLogo(state.activeEvent.sourceId) || "assets/icon.svg";
+  const logoSrc = state.activeEvent.hostLogo || sourceLogo(state.activeEvent.sourceId) || "assets/icon.svg";
+  if (usesBrandedEventImage(state.activeEvent)) {
+    logo.hidden = true;
+  } else {
+    logo.hidden = false;
+    logo.src = logoSrc;
+    logo.classList.toggle("is-light-logo", isLightLogo(logoSrc));
+    logo.addEventListener("error", () => {
+      logo.src = "assets/icon.svg";
+      logo.classList.remove("is-light-logo");
+    }, { once: true });
+  }
 
   fragment.querySelector('[data-action="calendar-default"]').addEventListener("click", () => {
     addToCalendar(state.activeEvent, state.calendarDefault);
@@ -237,15 +366,13 @@ function renderEmptyCard() {
   card.className = "empty-card";
   const hasEvents = state.events.some((event) => state.selectedSources.has(event.sourceId));
   const title = document.createElement("h2");
-  title.textContent = hasEvents ? "You have seen all matching events" : "No events match your sources";
+  title.textContent = hasEvents ? t("emptySeenAll") : t("emptyNoSources");
   const copy = document.createElement("p");
-  copy.textContent = hasEvents
-    ? "Revisit interested events or reset swipes to return events to the deck."
-    : "Enable more sources in settings to widen the feed.";
+  copy.textContent = hasEvents ? t("emptySeenAllCopy") : t("emptyNoSourcesCopy");
   const button = document.createElement("button");
   button.className = "secondary-button";
   button.type = "button";
-  button.textContent = hasEvents ? "Revisit interested" : "Open settings";
+  button.textContent = hasEvents ? t("revisitInterested") : t("openSettings");
   button.addEventListener("click", () => {
     if (hasEvents) {
       revisitInterested();
@@ -258,85 +385,50 @@ function renderEmptyCard() {
   return card;
 }
 
-function renderSources() {
-  els.sourceChips.replaceChildren(
-    ...state.sources.map((source) => {
-      const chip = document.createElement("button");
-      chip.className = `filter-chip${state.selectedSources.has(source.id) ? " on" : ""}`;
-      chip.type = "button";
-      chip.textContent = source.name;
-      chip.addEventListener("click", () => toggleSource(source.id));
-      return chip;
-    })
-  );
-}
-
 function renderSettings() {
+  els.languageDefault.value = state.language;
   els.calendarDefault.value = state.calendarDefault;
   els.settingsSources.replaceChildren(
     ...state.sources.map((source) => {
-      const label = document.createElement("label");
-      label.className = "source-toggle";
+      const selected = state.selectedSources.has(source.id);
+      const option = document.createElement("button");
+      option.className = `source-option${selected ? " is-selected" : ""}`;
+      option.type = "button";
+      option.setAttribute("aria-label", source.name);
+      option.setAttribute("aria-pressed", String(selected));
+
+      const logo = document.createElement("img");
+      logo.className = "source-option-logo";
+      logo.src = source.hostLogo || "assets/icon.svg";
+      logo.alt = "";
+      logo.loading = "lazy";
+      logo.addEventListener("error", () => {
+        logo.src = "assets/icon.svg";
+      });
+
       const text = document.createElement("span");
-      text.textContent = source.name;
-      const input = document.createElement("input");
-      input.type = "checkbox";
-      input.checked = state.selectedSources.has(source.id);
-      input.addEventListener("change", () => toggleSource(source.id));
-      label.append(text, input);
-      return label;
+      text.className = "source-option-copy";
+      const name = document.createElement("span");
+      name.className = "source-option-name";
+      name.textContent = source.name;
+      text.append(name);
+
+      const check = document.createElement("span");
+      check.className = "source-option-check";
+      check.innerHTML = `<svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="m5 12 4 4 10-10"></path></svg>`;
+
+      option.addEventListener("click", () => toggleSource(source.id));
+      option.append(logo, text, check);
+      return option;
     })
   );
 
+  els.revisitSettingsButton.disabled = !hasInterestedEvents();
   els.feedMeta.textContent = formatFeedMeta();
 }
 
-function renderInterested() {
-  const interestedEvents = state.events
-    .filter((event) => state.decisions[event.id] === "interested")
-    .sort((a, b) => new Date(a.start) - new Date(b.start));
-
-  els.interestedCount.textContent = String(interestedEvents.length);
-  els.revisitInterestedButton.disabled = interestedEvents.length === 0;
-
-  if (interestedEvents.length === 0) {
-    const empty = document.createElement("p");
-    empty.className = "empty-message";
-    empty.textContent = "Swipe right on events to keep them here.";
-    els.interestedList.replaceChildren(empty);
-    return;
-  }
-
-  els.interestedList.replaceChildren(
-    ...interestedEvents.map((event) => {
-      const item = document.createElement("article");
-      item.className = "interested-item";
-      const title = document.createElement("h3");
-      title.textContent = event.title;
-      const meta = document.createElement("p");
-      meta.textContent = `${formatWhen(event)} · ${event.location || "Location TBA"}`;
-      const actions = document.createElement("div");
-      actions.className = "interested-actions";
-      const calendar = document.createElement("button");
-      calendar.className = "secondary-button";
-      calendar.type = "button";
-      calendar.textContent = "Calendar";
-      calendar.addEventListener("click", () => addToCalendar(event, state.calendarDefault));
-      const remove = document.createElement("button");
-      remove.className = "secondary-button";
-      remove.type = "button";
-      remove.textContent = "Remove";
-      remove.addEventListener("click", () => {
-        delete state.decisions[event.id];
-        state.history = state.history.filter((entry) => entry.id !== event.id);
-        saveLocalState();
-        render();
-      });
-      actions.append(calendar, remove);
-      item.append(title, meta, actions);
-      return item;
-    })
-  );
+function hasInterestedEvents() {
+  return state.events.some((event) => state.decisions[event.id] === "interested");
 }
 
 function revisitInterested() {
@@ -362,7 +454,7 @@ function renderFeedState() {
   const totalMatching = state.events.filter((event) => state.selectedSources.has(event.sourceId)).length;
   const remaining = state.filtered.length;
   const decided = totalMatching - remaining;
-  els.feedStatus.textContent = `${remaining} future events match your settings`;
+  els.feedStatus.textContent = t("visibleEvents", { count: remaining });
   els.progressFill.style.width = totalMatching > 0 ? `${Math.round((decided / totalMatching) * 100)}%` : "0%";
   els.undoButton.disabled = state.history.length === 0;
 }
@@ -384,7 +476,7 @@ function attachSwipeHandlers(card, event) {
   let dragging = false;
 
   card.addEventListener("pointerdown", (pointerEvent) => {
-    if (pointerEvent.target.closest("button")) {
+    if (pointerEvent.target.closest("a, button")) {
       return;
     }
 
@@ -524,19 +616,19 @@ function formatSpeaker(event) {
 function formatWhen(event) {
   const start = new Date(event.start);
   const end = new Date(event.end || event.start);
-  const date = new Intl.DateTimeFormat("en-GB", {
+  const date = new Intl.DateTimeFormat(dateLocale(), {
     weekday: "long",
     day: "numeric",
     month: "long",
     year: "numeric",
     timeZone: event.timezone || "Europe/Berlin",
   }).format(start);
-  const time = new Intl.DateTimeFormat("en-GB", {
+  const time = new Intl.DateTimeFormat(dateLocale(), {
     hour: "2-digit",
     minute: "2-digit",
     timeZone: event.timezone || "Europe/Berlin",
   }).format(start);
-  const endTime = new Intl.DateTimeFormat("en-GB", {
+  const endTime = new Intl.DateTimeFormat(dateLocale(), {
     hour: "2-digit",
     minute: "2-digit",
     timeZone: event.timezone || "Europe/Berlin",
@@ -546,23 +638,41 @@ function formatWhen(event) {
 
 function formatFeedMeta() {
   if (!state.feedMeta) {
-    return "No feed loaded yet.";
+    return t("noFeed");
   }
 
   const pieces = [];
   if (state.feedMeta.generatedAt) {
-    pieces.push(`Last updated ${new Intl.DateTimeFormat("en-GB", {
+    const date = new Intl.DateTimeFormat(dateLocale(), {
       dateStyle: "medium",
       timeStyle: "short",
-    }).format(new Date(state.feedMeta.generatedAt))}`);
+    }).format(new Date(state.feedMeta.generatedAt));
+    pieces.push(t("lastUpdated", { date }));
   }
   if (state.feedMeta.offline) {
-    pieces.push("Using cached feed");
+    pieces.push(t("usingCachedFeed"));
   }
   if (state.feedMeta.error && !state.events.length) {
-    pieces.push(`Feed error: ${state.feedMeta.error}`);
+    pieces.push(t("feedError", { error: state.feedMeta.error }));
   }
-  return pieces.join(". ") || "Feed loaded.";
+  return pieces.join(". ") || t("feedLoaded");
+}
+
+function t(key, replacements = {}) {
+  const dictionary = I18N[state.language] || I18N[DEFAULT_LANGUAGE];
+  const template = dictionary[key] || I18N[DEFAULT_LANGUAGE][key] || key;
+  return Object.entries(replacements).reduce(
+    (text, [name, value]) => text.replace(`{${name}}`, String(value)),
+    template
+  );
+}
+
+function validLanguage(language) {
+  return Object.prototype.hasOwnProperty.call(I18N, language) ? language : DEFAULT_LANGUAGE;
+}
+
+function dateLocale() {
+  return state.language === "de" ? "de-DE" : "en-GB";
 }
 
 function colorForSource(sourceId) {
@@ -575,6 +685,14 @@ function colorForSource(sourceId) {
 
 function sourceLogo(sourceId) {
   return state.sources.find((source) => source.id === sourceId)?.hostLogo;
+}
+
+function isLightLogo(src) {
+  return /assets\/source-logos\/|vertical-white/i.test(src);
+}
+
+function usesBrandedEventImage(event) {
+  return event?.sourceId === "cyber-valley" && Boolean(event.imageUrl);
 }
 
 function formatIcsDate(date) {

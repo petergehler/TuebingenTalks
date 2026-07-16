@@ -1,4 +1,4 @@
-const CACHE_NAME = "tuebingen-talks-v6";
+const CACHE_NAME = "tuebingen-talks-v15";
 const APP_SHELL = [
   "./",
   "index.html",
@@ -7,6 +7,10 @@ const APP_SHELL = [
   "manifest.webmanifest",
   "assets/icon.svg",
   "assets/maskable-icon.svg",
+  "assets/source-logos/cyber-valley.svg",
+  "assets/source-logos/friday-talks.svg",
+  "assets/source-logos/studium-generale.webp",
+  "assets/source-logos/university-tuebingen.svg",
   "data/sources.json",
   "data/events.json"
 ];

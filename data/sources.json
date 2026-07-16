@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T08:33:04+02:00",
+  "generatedAt": "2026-07-16T18:05:47+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -7,8 +7,8 @@
       "type": "rss",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "rssUrl": "",
-      "selectable": true,
-      "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg"
+      "selectable": false,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
     },
     {
       "id": "cognitive-science",
@@ -16,15 +16,23 @@
       "type": "html",
       "url": "https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/cognitive-science/",
       "selectable": true,
-      "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg"
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
     },
     {
       "id": "startup-center",
       "name": "Startup Center",
       "type": "html",
-      "url": "https://uni-tuebingen.de/exzellenzstrategie/transfer/startup-center/",
+      "url": "https://de.linkedin.com/company/startup-center-tuebingen",
       "selectable": true,
-      "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg"
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "studium-generale",
+      "name": "Studium Generale",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/studium-generale.webp"
     },
     {
       "id": "geoenviron-seminar",
@@ -32,7 +40,7 @@
       "type": "html",
       "url": "https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/fachbereich/aktuelles/forschungskolloquien-und-seminare/geoenviron-seminar/",
       "selectable": true,
-      "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg"
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
     },
     {
       "id": "friday-talks",
@@ -40,7 +48,7 @@
       "type": "html",
       "url": "https://fridaytalks.github.io/",
       "selectable": true,
-      "hostLogo": "assets/icon.svg"
+      "hostLogo": "assets/source-logos/friday-talks.svg"
     },
     {
       "id": "ellis-institute",
@@ -56,15 +64,15 @@
       "type": "html",
       "url": "https://is.mpg.de/events",
       "selectable": true,
-      "hostLogo": "assets/icon.svg"
+      "hostLogo": "https://is.mpg.de/assets/logos/logo_green_en-55a1f978f4981c37f203f17d6d635402376bc4788d9bf835c6e53e4b10288b06.webp"
     },
     {
       "id": "cyber-valley",
       "name": "Cyber Valley",
       "type": "html",
-      "url": "https://cyber-valley.de/en/events",
+      "url": "https://www.cyber-valley.de/en/events",
       "selectable": true,
-      "hostLogo": "assets/icon.svg"
+      "hostLogo": "assets/source-logos/cyber-valley.svg"
     },
     {
       "id": "college-of-fellows",
@@ -72,7 +80,7 @@
       "type": "html",
       "url": "https://uni-tuebingen.de/forschung/zentren-und-institute/college-of-fellows/events/",
       "selectable": true,
-      "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg"
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
     },
     {
       "id": "physical-colloquium",
@@ -80,7 +88,7 @@
       "type": "html",
       "url": "https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/kolloquium/semester-archiv/physikalisches-kolloquium-ss26/",
       "selectable": true,
-      "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg"
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
     },
     {
       "id": "cq-seminar",
@@ -88,7 +96,7 @@
       "type": "html",
       "url": "https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/forschung/center-for-quantum-science/cq-seminar/",
       "selectable": true,
-      "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg"
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
     },
     {
       "id": "math-calendar",
@@ -96,7 +104,7 @@
       "type": "html",
       "url": "https://www.math.uni-tuebingen.de/math/de/aktuelles/veranstaltungskalender",
       "selectable": true,
-      "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg"
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
     },
     {
       "id": "erich-kamke-colloquium",
@@ -104,7 +112,7 @@
       "type": "html",
       "url": "https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/mathematik/fachbereich/aktuelles/erich-kamke-kolloquium/",
       "selectable": true,
-      "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg"
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
     },
     {
       "id": "izew-events",
@@ -112,7 +120,15 @@
       "type": "html",
       "url": "https://uni-tuebingen.de/forschung/zentren-und-institute/internationales-zentrum-fuer-ethik-in-den-wissenschaften/das-izew/veranstaltungen/aktuelle-veranstaltungen/",
       "selectable": true,
-      "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg"
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "wichmann-lab-colloquium",
+      "name": "Colloquium Summer Term Wichmann Lab",
+      "type": "html",
+      "url": "https://talks.tuebingen.ai/talks",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
     },
     {
       "id": "tfw-events",
@@ -120,7 +136,15 @@
       "type": "html",
       "url": "https://uni-tuebingen.de/forschung/zentren-und-institute/tuebinger-forum-fuer-wissenschaftskulturen-tfw/veranstaltungen/",
       "selectable": true,
-      "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg"
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "imported-talks",
+      "name": "Imported talks",
+      "type": "aggregator",
+      "url": "https://talks.tuebingen.ai/talks",
+      "selectable": true,
+      "hostLogo": "assets/icon.svg"
     },
     {
       "id": "tuebingen-talks",
@@ -129,6 +153,142 @@
       "url": "https://talks.tuebingen.ai/talks",
       "selectable": false,
       "hostLogo": "assets/icon.svg"
+    },
+    {
+      "id": "calendar-tubingen-school-of-education",
+      "name": "Tübingen School of Education",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-juristische-fakultat-lehrstuhl-prof-dr-thomas-finkenauer",
+      "name": "Juristische Fakultät, Lehrstuhl Prof. Dr. Thomas Finkenauer",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-institut-fur-osteuropaische-geschichte-und-landeskunde-und-zentr",
+      "name": "Institut für Osteuropäische Geschichte und Landeskunde und Zentrum für Medienkompetenz",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-museum-der-universitat-tubingen-mut",
+      "name": "Museum der Universität Tübingen MUT",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-juristische-fakultat",
+      "name": "Juristische Fakultät",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-museum-der-universitat-tubingen-mut-prof-em-dr-jurgen-wertheimer",
+      "name": "Museum der Universität Tübingen MUT, Prof. em. Dr. Jürgen Wertheimer",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-kulturreferat-der-universitat-tubingen",
+      "name": "Kulturreferat der Universität Tübingen",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-juristische-fakultat-ai-meets-law",
+      "name": "Juristische Fakultät, AI meets Law",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-mathematisch-naturwissenschaftliche-fakultat-fachbereich-chemie",
+      "name": "Mathematisch-Naturwissenschaftliche Fakultät, Fachbereich Chemie",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-botanischer-garten-tubingen",
+      "name": "Botanischer Garten Tübingen",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-sfb-1391-andere-asthetik",
+      "name": "SFB 1391 Andere Ästhetik",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-evangelisch-theologische-fakultat-praktische-theologie-iii-wirts",
+      "name": "Evangelisch-Theologische Fakultät, Praktische Theologie III, Wirtschafts- und Sozialwissenschaftliche Fakultät, Institut für Rechtsextremismusforschung (IRex), Universität Göttingen, Evangelische Zentralstelle für Weltanschauungsfragen",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-wirtschafts-und-sozialwissenschaftliche-fakultat-ludwig-uhland-i",
+      "name": "Wirtschafts- und Sozialwissenschaftliche Fakultät, Ludwig-Uhland-Institut für Empirische Kulturwissenschaft, Digital Anthropology Lab Tübingen, Excellence Cluster: Machine Learning for Science",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-universitat-tubingen",
+      "name": "Universität Tübingen",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-universitat-tubingen-und-partner",
+      "name": "Universität Tübingen und Partner",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-philosophische-fakultat",
+      "name": "Philosophische Fakultät",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-internationales-zentrum-fur-ethik-in-den-wissenschaften-izew-kom",
+      "name": "Internationales Zentrum für Ethik in den Wissenschaften (IZEW), Kompetenzzentrum für Nachhaltige Entwicklung",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
     }
   ]
 }
