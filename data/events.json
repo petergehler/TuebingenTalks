@@ -1,76 +1,7 @@
 {
-  "version": "2026-07-18T08:21:06+02:00",
-  "generatedAt": "2026-07-18T08:21:06+02:00",
+  "version": "2026-07-19T08:44:01+02:00",
+  "generatedAt": "2026-07-19T08:44:01+02:00",
   "events": [
-    {
-      "id": "calendar-museum-der-universitat-tubingen-mut-72c1c74faa82",
-      "title": "Apostel Paulus und das Geld. Antike Münzen zwischen jüdischer und griechisch-römischer Welt",
-      "speaker": "",
-      "abstract": "VR-Ausstellung Dank modernster Virtual-Reality-Technologie können die Besucherinnen und Besucher im MUT | Antike Kulturen auf Schloss Hohentübingen zwischen 11 und…",
-      "sourceId": "calendar-museum-der-universitat-tubingen-mut",
-      "sourceName": "Museum der Universität Tübingen MUT",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/apostel-paulus-und-das-geld-antike-muenzen-zwischen-juedischer-und-griechisch-roemischer-welt-5/",
-      "start": "2026-07-18T11:00:00+02:00",
-      "end": "2026-07-18T15:00:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Museum Alte Kulturen, Schloss Hohentübingen, Burgsteige 11",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/apostel-paulus-und-das-geld-antike-muenzen-zwischen-juedischer-und-griechisch-roemischer-welt-5/",
-      "topics": [
-        "Public Lecture"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:20:58+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
-    },
-    {
-      "id": "calendar-museum-der-universitat-tubingen-mut-bbd8f2be3c38",
-      "title": "Samstags um 3 - öffentliche Schlossführung",
-      "speaker": "",
-      "abstract": "Das Museum Alte Kulturen bietet jeden Samstag um 15 Uhr eine öffentliche Schlossführung an. Das Schloss Hohentübingen ist Teil der Eberhard Karls…",
-      "sourceId": "calendar-museum-der-universitat-tubingen-mut",
-      "sourceName": "Museum der Universität Tübingen MUT",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/samstags-um-3-oeffentliche-schlossfuehrung-23/",
-      "start": "2026-07-18T15:00:00+02:00",
-      "end": "2026-07-18T16:00:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Museum Alte Kulturen, Schloss Hohentübingen, Burgsteige 11",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/samstags-um-3-oeffentliche-schlossfuehrung-23/",
-      "topics": [
-        "Public Lecture"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:20:58+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
-    },
-    {
-      "id": "calendar-kulturreferat-der-universitat-tubingen-b4bba9902978",
-      "title": "Matthias Kirschnereit - Klavierabend",
-      "speaker": "",
-      "abstract": "Sommerkonzerte im Kloster Bebenhausen 2026 Programm: Mendelssohn - Lied ohne Worte B-Dur op. 67 Nr. 3 Mendelssohn - Variations sérieuses d-moll op. 54 Wagner - Sonate für das Album von Frau M.W. …",
-      "sourceId": "calendar-kulturreferat-der-universitat-tubingen",
-      "sourceName": "Kulturreferat der Universität Tübingen",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/matthias-kirschnereit-klavierabend/",
-      "start": "2026-07-18T18:30:00+02:00",
-      "end": "2026-07-18T19:30:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Kloster Bebenhausen, Sommerrefektorium",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/matthias-kirschnereit-klavierabend/",
-      "topics": [
-        "Public Lecture"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:20:58+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
-    },
     {
       "id": "geoenviron-seminar-water-2026-07-20",
       "title": "Tracing Water and Carbon Fluxes in Changing Alpine Catchments",
@@ -93,7 +24,7 @@
       "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-07-10T00:00:00+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "calendar-juristische-fakultat-ai-meets-law-a29914b16d27",
@@ -116,8 +47,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:20:58+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "scrapedAt": "2026-07-19T08:43:49+02:00",
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "imported-talks-99e0ca8c6b76",
@@ -140,8 +71,8 @@
       ],
       "hostLogo": "assets/icon.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:21:05+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "scrapedAt": "2026-07-19T08:44:00+02:00",
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "wichmann-lab-colloquium-84bbc1b00c2c",
@@ -163,8 +94,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:21:06+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "scrapedAt": "2026-07-19T08:44:01+02:00",
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "studium-generale-cbccb057a67c",
@@ -186,8 +117,8 @@
       ],
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:20:58+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "scrapedAt": "2026-07-19T08:43:49+02:00",
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "calendar-mathematisch-naturwissenschaftliche-fakultat-fachbereich-chemie-c88cdc1b7787",
@@ -209,8 +140,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:20:58+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "scrapedAt": "2026-07-19T08:43:49+02:00",
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "ellis-institute-robust-learning-2026-07-22",
@@ -234,7 +165,7 @@
       "hostLogo": "https://institute-tue.ellis.eu/assets/logos/ellis-insittute-logo-vertical-white-c30824038fa15bab8c534bd1a9abde8d9db9b1aceb3b159280a7bfd61d6e9400.png",
       "imageUrl": "",
       "scrapedAt": "2026-07-10T00:00:00+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "calendar-juristische-fakultat-c6ab601302c5",
@@ -256,8 +187,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:20:59+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "scrapedAt": "2026-07-19T08:43:49+02:00",
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "studium-generale-10dc73151b73",
@@ -279,8 +210,8 @@
       ],
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:20:59+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "scrapedAt": "2026-07-19T08:43:49+02:00",
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "startup-center-founder-talk-2026-07-23",
@@ -303,7 +234,7 @@
       "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-07-10T00:00:00+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "studium-generale-5ff256e5b69a",
@@ -325,8 +256,8 @@
       ],
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:20:59+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "scrapedAt": "2026-07-19T08:43:49+02:00",
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-28135a13fe42",
@@ -348,8 +279,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:20:59+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "scrapedAt": "2026-07-19T08:43:49+02:00",
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-f399285a284e",
@@ -371,8 +302,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:20:59+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "scrapedAt": "2026-07-19T08:43:49+02:00",
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "calendar-botanischer-garten-tubingen-8074f78e1fad",
@@ -394,8 +325,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:20:59+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "scrapedAt": "2026-07-19T08:43:49+02:00",
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-525e9e7f5286",
@@ -417,8 +348,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:20:59+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "scrapedAt": "2026-07-19T08:43:49+02:00",
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "calendar-sfb-1391-andere-asthetik-c9dac086e412",
@@ -440,8 +371,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:20:59+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "scrapedAt": "2026-07-19T08:43:50+02:00",
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-4bc2cadd9d51",
@@ -463,8 +394,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:20:59+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "scrapedAt": "2026-07-19T08:43:50+02:00",
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "calendar-kulturreferat-der-universitat-tubingen-da6e41744192",
@@ -486,8 +417,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:20:59+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "scrapedAt": "2026-07-19T08:43:50+02:00",
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-2114c443d6e3",
@@ -509,8 +440,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:21:00+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "scrapedAt": "2026-07-19T08:43:50+02:00",
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "calendar-evangelisch-theologische-fakultat-praktische-theologie-iii-wirts-1d9af30fb211",
@@ -532,8 +463,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:21:00+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "scrapedAt": "2026-07-19T08:43:50+02:00",
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "college-of-fellows-culture-2026-08-03",
@@ -557,7 +488,7 @@
       "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-07-10T00:00:00+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "calendar-botanischer-garten-tubingen-ce72e48c7672",
@@ -579,8 +510,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:21:00+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "scrapedAt": "2026-07-19T08:43:50+02:00",
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "calendar-wirtschafts-und-sozialwissenschaftliche-fakultat-ludwig-uhland-i-9fa263d29322",
@@ -602,8 +533,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:21:00+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "scrapedAt": "2026-07-19T08:43:50+02:00",
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-090b4b73ab06",
@@ -625,8 +556,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:21:00+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "scrapedAt": "2026-07-19T08:43:50+02:00",
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-und-partner-22bebd9208a3",
@@ -648,8 +579,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:21:00+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "scrapedAt": "2026-07-19T08:43:50+02:00",
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "calendar-philosophische-fakultat-6037a43cc2d6",
@@ -671,8 +602,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:21:00+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "scrapedAt": "2026-07-19T08:43:50+02:00",
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "calendar-internationales-zentrum-fur-ethik-in-den-wissenschaften-izew-kom-4495a0356637",
@@ -694,8 +625,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:21:00+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "scrapedAt": "2026-07-19T08:43:50+02:00",
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-944bd955193e",
@@ -717,8 +648,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-18T08:21:00+02:00",
-      "updatedAt": "2026-07-18T08:21:06+02:00"
+      "scrapedAt": "2026-07-19T08:43:50+02:00",
+      "updatedAt": "2026-07-19T08:44:01+02:00"
     }
   ]
 }
