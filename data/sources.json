@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T08:43:11+02:00",
+  "generatedAt": "2026-07-22T08:44:02+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -293,6 +293,14 @@
     {
       "id": "calendar-mathematisch-naturwissenschaftliche-fakultat-geo-and-environment",
       "name": "Mathematisch-Naturwissenschaftliche Fakultät, Geo- and Environmental Research Center (GUZ)",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-mathematisch-naturwissenschaftliche-fakultat-fachbereich-geowiss",
+      "name": "Mathematisch-Naturwissenschaftliche Fakultät, Fachbereich Geowissenschaften",
       "type": "html",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "selectable": true,

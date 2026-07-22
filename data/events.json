@@ -1,77 +1,7 @@
 {
-  "version": "2026-07-21T08:43:11+02:00",
-  "generatedAt": "2026-07-21T08:43:11+02:00",
+  "version": "2026-07-22T08:44:02+02:00",
+  "generatedAt": "2026-07-22T08:44:02+02:00",
   "events": [
-    {
-      "id": "imported-talks-99e0ca8c6b76",
-      "title": "Defamation by LLMs: How the law captures AI hallucinations and what this tells us about the approach to technology regulation in the EU",
-      "speaker": "Kai Ebert (University Viadrina)",
-      "abstract": "How should the law respond when AI systems generate false and defamatory information about real people? Using AI hallucinations as a case study, this talk explores how the EU regulatory architecture, comprising i.a. the EU AI Act, GDPR, DSA, and national liability law, addresses emerging AI harms, and what this reveals about the EU’s broader approach to balancing innovation and effective regulation.",
-      "sourceId": "imported-talks",
-      "sourceName": "Imported talks",
-      "sourceUrl": "https://talks.tuebingen.ai/talks",
-      "eventUrl": "https://talks.tuebingen.ai/talks/talk/id=988",
-      "start": "2026-07-21T13:30:00+02:00",
-      "end": "2026-07-21T14:30:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Maria-von-Linden-Str. 6, 4th floor, seminar room",
-      "registrationRequired": false,
-      "registrationUrl": "",
-      "topics": [
-        "AI & ML",
-        "Law & Society"
-      ],
-      "hostLogo": "assets/icon.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-07-21T08:43:10+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
-    },
-    {
-      "id": "wichmann-lab-colloquium-84bbc1b00c2c",
-      "title": "Comparing Frequentist and Bayesian Hypothesis Tests Using Regions of Decision",
-      "speaker": "Frieder Göppert, Experimental Cognitive Science",
-      "abstract": "",
-      "sourceId": "wichmann-lab-colloquium",
-      "sourceName": "Colloquium Summer Term Wichmann Lab",
-      "sourceUrl": "https://talks.tuebingen.ai/talks",
-      "eventUrl": "https://talks.tuebingen.ai/talks/talk/id=981",
-      "start": "2026-07-21T14:30:00+02:00",
-      "end": "2026-07-21T15:30:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Maria-von-Linden-Straße 6, 1. floor, seminar room",
-      "registrationRequired": false,
-      "registrationUrl": "",
-      "topics": [
-        "Cognitive Science"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-07-21T08:43:11+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
-    },
-    {
-      "id": "studium-generale-cbccb057a67c",
-      "title": "Öffentlich-rechtlicher Journalismus zwischen Freiheit und demokratischem Auftrag",
-      "speaker": "Stefanie Schneider, Landessenderdirektorin SWR",
-      "abstract": "Medien, Macht und Menschlichkeit – Wie die digitale Medienökonomie unsere Öffentlichkeit prägt",
-      "sourceId": "studium-generale",
-      "sourceName": "Studium Generale",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/oeffentlich-rechtlicher-journalismus-zwischen-freiheit-und-demokratischem-auftrag/",
-      "start": "2026-07-21T18:15:00+02:00",
-      "end": "2026-07-21T19:15:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/oeffentlich-rechtlicher-journalismus-zwischen-freiheit-und-demokratischem-auftrag/",
-      "topics": [
-        "Public Lecture"
-      ],
-      "hostLogo": "assets/source-logos/studium-generale.webp",
-      "imageUrl": "",
-      "scrapedAt": "2026-07-21T08:42:55+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
-    },
     {
       "id": "calendar-mathematisch-naturwissenschaftliche-fakultat-fachbereich-chemie-c88cdc1b7787",
       "title": "15. Tag der Chemie",
@@ -92,8 +22,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-21T08:42:55+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
+      "scrapedAt": "2026-07-22T08:43:42+02:00",
+      "updatedAt": "2026-07-22T08:44:02+02:00"
     },
     {
       "id": "ellis-institute-robust-learning-2026-07-22",
@@ -117,7 +47,7 @@
       "hostLogo": "https://institute-tue.ellis.eu/assets/logos/ellis-insittute-logo-vertical-white-c30824038fa15bab8c534bd1a9abde8d9db9b1aceb3b159280a7bfd61d6e9400.png",
       "imageUrl": "",
       "scrapedAt": "2026-07-10T00:00:00+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
+      "updatedAt": "2026-07-22T08:44:02+02:00"
     },
     {
       "id": "calendar-juristische-fakultat-c6ab601302c5",
@@ -139,8 +69,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-21T08:42:55+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
+      "scrapedAt": "2026-07-22T08:43:42+02:00",
+      "updatedAt": "2026-07-22T08:44:02+02:00"
     },
     {
       "id": "studium-generale-10dc73151b73",
@@ -162,8 +92,8 @@
       ],
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
-      "scrapedAt": "2026-07-21T08:42:55+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
+      "scrapedAt": "2026-07-22T08:43:42+02:00",
+      "updatedAt": "2026-07-22T08:44:02+02:00"
     },
     {
       "id": "startup-center-founder-talk-2026-07-23",
@@ -186,7 +116,7 @@
       "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-07-10T00:00:00+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
+      "updatedAt": "2026-07-22T08:44:02+02:00"
     },
     {
       "id": "studium-generale-5ff256e5b69a",
@@ -208,8 +138,8 @@
       ],
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
-      "scrapedAt": "2026-07-21T08:42:55+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
+      "scrapedAt": "2026-07-22T08:43:42+02:00",
+      "updatedAt": "2026-07-22T08:44:02+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-28135a13fe42",
@@ -231,8 +161,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-21T08:42:55+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
+      "scrapedAt": "2026-07-22T08:43:42+02:00",
+      "updatedAt": "2026-07-22T08:44:02+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-f399285a284e",
@@ -254,8 +184,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-21T08:42:55+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
+      "scrapedAt": "2026-07-22T08:43:42+02:00",
+      "updatedAt": "2026-07-22T08:44:02+02:00"
     },
     {
       "id": "calendar-botanischer-garten-tubingen-8074f78e1fad",
@@ -277,8 +207,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-21T08:42:55+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
+      "scrapedAt": "2026-07-22T08:43:42+02:00",
+      "updatedAt": "2026-07-22T08:44:02+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-525e9e7f5286",
@@ -300,8 +230,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-21T08:42:55+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
+      "scrapedAt": "2026-07-22T08:43:42+02:00",
+      "updatedAt": "2026-07-22T08:44:02+02:00"
     },
     {
       "id": "calendar-sfb-1391-andere-asthetik-c9dac086e412",
@@ -323,8 +253,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-21T08:42:56+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
+      "scrapedAt": "2026-07-22T08:43:42+02:00",
+      "updatedAt": "2026-07-22T08:44:02+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-4bc2cadd9d51",
@@ -346,8 +276,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-21T08:42:56+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
+      "scrapedAt": "2026-07-22T08:43:44+02:00",
+      "updatedAt": "2026-07-22T08:44:02+02:00"
     },
     {
       "id": "calendar-kulturreferat-der-universitat-tubingen-da6e41744192",
@@ -369,8 +299,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-21T08:42:56+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
+      "scrapedAt": "2026-07-22T08:43:44+02:00",
+      "updatedAt": "2026-07-22T08:44:02+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-2114c443d6e3",
@@ -392,16 +322,16 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-21T08:42:56+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
+      "scrapedAt": "2026-07-22T08:43:44+02:00",
+      "updatedAt": "2026-07-22T08:44:02+02:00"
     },
     {
-      "id": "calendar-mathematisch-naturwissenschaftliche-fakultat-geo-and-environment-59c3f3f9ac2b",
+      "id": "calendar-mathematisch-naturwissenschaftliche-fakultat-fachbereich-geowiss-0786cba29e7e",
       "title": "Strategieworkshop Wasserversorgung 2070",
       "speaker": "",
       "abstract": "Zukunftsbilder und Handlungsstrategien für das Obere Gäu und Neckartal unter dem Eindruck des Klimawandels",
-      "sourceId": "calendar-mathematisch-naturwissenschaftliche-fakultat-geo-and-environment",
-      "sourceName": "Mathematisch-Naturwissenschaftliche Fakultät, Geo- and Environmental Research Center (GUZ)",
+      "sourceId": "calendar-mathematisch-naturwissenschaftliche-fakultat-fachbereich-geowiss",
+      "sourceName": "Mathematisch-Naturwissenschaftliche Fakultät, Fachbereich Geowissenschaften",
       "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/strategieworkshop-wasserversorgung-2070/",
       "start": "2026-07-29T09:00:00+02:00",
@@ -415,8 +345,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-21T08:42:56+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
+      "scrapedAt": "2026-07-22T08:43:44+02:00",
+      "updatedAt": "2026-07-22T08:44:02+02:00"
     },
     {
       "id": "calendar-evangelisch-theologische-fakultat-praktische-theologie-iii-wirts-1d9af30fb211",
@@ -438,8 +368,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-21T08:42:56+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
+      "scrapedAt": "2026-07-22T08:43:44+02:00",
+      "updatedAt": "2026-07-22T08:44:02+02:00"
     },
     {
       "id": "college-of-fellows-culture-2026-08-03",
@@ -463,7 +393,7 @@
       "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-07-10T00:00:00+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
+      "updatedAt": "2026-07-22T08:44:02+02:00"
     },
     {
       "id": "calendar-botanischer-garten-tubingen-ce72e48c7672",
@@ -485,8 +415,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-21T08:42:56+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
+      "scrapedAt": "2026-07-22T08:43:44+02:00",
+      "updatedAt": "2026-07-22T08:44:02+02:00"
     },
     {
       "id": "calendar-wirtschafts-und-sozialwissenschaftliche-fakultat-ludwig-uhland-i-9fa263d29322",
@@ -508,8 +438,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-21T08:42:56+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
+      "scrapedAt": "2026-07-22T08:43:44+02:00",
+      "updatedAt": "2026-07-22T08:44:02+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-090b4b73ab06",
@@ -531,8 +461,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-21T08:42:56+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
+      "scrapedAt": "2026-07-22T08:43:44+02:00",
+      "updatedAt": "2026-07-22T08:44:02+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-und-partner-22bebd9208a3",
@@ -554,8 +484,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-21T08:42:56+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
+      "scrapedAt": "2026-07-22T08:43:44+02:00",
+      "updatedAt": "2026-07-22T08:44:02+02:00"
     },
     {
       "id": "calendar-philosophische-fakultat-6037a43cc2d6",
@@ -577,8 +507,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-21T08:42:57+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
+      "scrapedAt": "2026-07-22T08:43:44+02:00",
+      "updatedAt": "2026-07-22T08:44:02+02:00"
     },
     {
       "id": "calendar-internationales-zentrum-fur-ethik-in-den-wissenschaften-izew-kom-4495a0356637",
@@ -600,8 +530,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-21T08:42:57+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
+      "scrapedAt": "2026-07-22T08:43:45+02:00",
+      "updatedAt": "2026-07-22T08:44:02+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-944bd955193e",
@@ -623,8 +553,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-21T08:42:57+02:00",
-      "updatedAt": "2026-07-21T08:43:11+02:00"
+      "scrapedAt": "2026-07-22T08:43:45+02:00",
+      "updatedAt": "2026-07-22T08:44:02+02:00"
     }
   ]
 }
