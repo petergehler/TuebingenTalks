@@ -1,100 +1,7 @@
 {
-  "version": "2026-07-22T08:44:02+02:00",
-  "generatedAt": "2026-07-22T08:44:02+02:00",
+  "version": "2026-07-23T08:41:29+02:00",
+  "generatedAt": "2026-07-23T08:41:29+02:00",
   "events": [
-    {
-      "id": "calendar-mathematisch-naturwissenschaftliche-fakultat-fachbereich-chemie-c88cdc1b7787",
-      "title": "15. Tag der Chemie",
-      "speaker": "",
-      "abstract": "Am 22. Juli 2026 lädt der Fachbereich Chemie der Universität Tübingen (unterstützt durch ChemieBW) zum 15. Mal Schülerinnen und Schüler sowie deren…",
-      "sourceId": "calendar-mathematisch-naturwissenschaftliche-fakultat-fachbereich-chemie",
-      "sourceName": "Mathematisch-Naturwissenschaftliche Fakultät, Fachbereich Chemie",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/15-tag-der-chemie/",
-      "start": "2026-07-22T09:00:00+02:00",
-      "end": "2026-07-22T13:00:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Hörsaal N6, Hörsaalzentrum, Auf der Morgenstelle 16",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/15-tag-der-chemie/",
-      "topics": [
-        "Public Lecture"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-07-22T08:43:42+02:00",
-      "updatedAt": "2026-07-22T08:44:02+02:00"
-    },
-    {
-      "id": "ellis-institute-robust-learning-2026-07-22",
-      "title": "Robust Learning Systems in Open-Ended Environments",
-      "speaker": "ELLIS Institute Tübingen",
-      "abstract": "An afternoon research talk on machine learning systems that continue to adapt under distribution shift, with examples from perception, robotics, and scientific data.",
-      "sourceId": "ellis-institute",
-      "sourceName": "ELLIS Institute",
-      "sourceUrl": "https://institute-tue.ellis.eu/events",
-      "eventUrl": "https://institute-tue.ellis.eu/events",
-      "start": "2026-07-22T15:00:00+02:00",
-      "end": "2026-07-22T16:00:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "ELLIS Institute Tübingen",
-      "registrationRequired": false,
-      "registrationUrl": "",
-      "topics": [
-        "AI & ML",
-        "Methods & Data"
-      ],
-      "hostLogo": "https://institute-tue.ellis.eu/assets/logos/ellis-insittute-logo-vertical-white-c30824038fa15bab8c534bd1a9abde8d9db9b1aceb3b159280a7bfd61d6e9400.png",
-      "imageUrl": "",
-      "scrapedAt": "2026-07-10T00:00:00+02:00",
-      "updatedAt": "2026-07-22T08:44:02+02:00"
-    },
-    {
-      "id": "calendar-juristische-fakultat-c6ab601302c5",
-      "title": "Examensfeier der Juristischen Fakultät und des Landesjustizprüfungsamtes",
-      "speaker": "",
-      "abstract": "",
-      "sourceId": "calendar-juristische-fakultat",
-      "sourceName": "Juristische Fakultät",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/examensfeier-der-juristischen-fakultaet-und-des-landesjustizpruefungsamtes-1/",
-      "start": "2026-07-22T15:15:00+02:00",
-      "end": "2026-07-22T16:15:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Festsaal der Universität, Neue Aula, Geschwister-Scholl-Platz",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/examensfeier-der-juristischen-fakultaet-und-des-landesjustizpruefungsamtes-1/",
-      "topics": [
-        "Public Lecture"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-07-22T08:43:42+02:00",
-      "updatedAt": "2026-07-22T08:44:02+02:00"
-    },
-    {
-      "id": "studium-generale-10dc73151b73",
-      "title": "Abschlussdiskussion: Was ist los in den USA? Und was bedeutet das für uns?",
-      "speaker": "",
-      "abstract": "1776–2026: Was ist los in den USA? Podium: Katharina Luther, D.A.I Tübingen Heike Radvan, Tübingen Astrid Franke, Tübingen Nadja Klopprogge, Tübingen",
-      "sourceId": "studium-generale",
-      "sourceName": "Studium Generale",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/abschlussdiskussion-was-ist-los-in-den-usa-und-was-bedeutet-das-fuer-uns/",
-      "start": "2026-07-22T18:15:00+02:00",
-      "end": "2026-07-22T19:15:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/abschlussdiskussion-was-ist-los-in-den-usa-und-was-bedeutet-das-fuer-uns/",
-      "topics": [
-        "Public Lecture"
-      ],
-      "hostLogo": "assets/source-logos/studium-generale.webp",
-      "imageUrl": "",
-      "scrapedAt": "2026-07-22T08:43:42+02:00",
-      "updatedAt": "2026-07-22T08:44:02+02:00"
-    },
     {
       "id": "startup-center-founder-talk-2026-07-23",
       "title": "From Lab Result to Venture: Founder Stories from Tübingen",
@@ -116,7 +23,7 @@
       "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-07-10T00:00:00+02:00",
-      "updatedAt": "2026-07-22T08:44:02+02:00"
+      "updatedAt": "2026-07-23T08:41:29+02:00"
     },
     {
       "id": "studium-generale-5ff256e5b69a",
@@ -138,8 +45,8 @@
       ],
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
-      "scrapedAt": "2026-07-22T08:43:42+02:00",
-      "updatedAt": "2026-07-22T08:44:02+02:00"
+      "scrapedAt": "2026-07-23T08:41:17+02:00",
+      "updatedAt": "2026-07-23T08:41:29+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-28135a13fe42",
@@ -161,8 +68,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-22T08:43:42+02:00",
-      "updatedAt": "2026-07-22T08:44:02+02:00"
+      "scrapedAt": "2026-07-23T08:41:17+02:00",
+      "updatedAt": "2026-07-23T08:41:29+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-f399285a284e",
@@ -184,8 +91,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-22T08:43:42+02:00",
-      "updatedAt": "2026-07-22T08:44:02+02:00"
+      "scrapedAt": "2026-07-23T08:41:17+02:00",
+      "updatedAt": "2026-07-23T08:41:29+02:00"
     },
     {
       "id": "calendar-botanischer-garten-tubingen-8074f78e1fad",
@@ -207,8 +114,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-22T08:43:42+02:00",
-      "updatedAt": "2026-07-22T08:44:02+02:00"
+      "scrapedAt": "2026-07-23T08:41:17+02:00",
+      "updatedAt": "2026-07-23T08:41:29+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-525e9e7f5286",
@@ -230,8 +137,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-22T08:43:42+02:00",
-      "updatedAt": "2026-07-22T08:44:02+02:00"
+      "scrapedAt": "2026-07-23T08:41:17+02:00",
+      "updatedAt": "2026-07-23T08:41:29+02:00"
     },
     {
       "id": "calendar-sfb-1391-andere-asthetik-c9dac086e412",
@@ -253,8 +160,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-22T08:43:42+02:00",
-      "updatedAt": "2026-07-22T08:44:02+02:00"
+      "scrapedAt": "2026-07-23T08:41:17+02:00",
+      "updatedAt": "2026-07-23T08:41:29+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-4bc2cadd9d51",
@@ -276,8 +183,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-22T08:43:44+02:00",
-      "updatedAt": "2026-07-22T08:44:02+02:00"
+      "scrapedAt": "2026-07-23T08:41:17+02:00",
+      "updatedAt": "2026-07-23T08:41:29+02:00"
     },
     {
       "id": "calendar-kulturreferat-der-universitat-tubingen-da6e41744192",
@@ -299,8 +206,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-22T08:43:44+02:00",
-      "updatedAt": "2026-07-22T08:44:02+02:00"
+      "scrapedAt": "2026-07-23T08:41:17+02:00",
+      "updatedAt": "2026-07-23T08:41:29+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-2114c443d6e3",
@@ -323,7 +230,31 @@
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-07-22T08:43:44+02:00",
-      "updatedAt": "2026-07-22T08:44:02+02:00"
+      "updatedAt": "2026-07-23T08:41:29+02:00"
+    },
+    {
+      "id": "mpi-is-18b813b1a334",
+      "title": "Intelligent Construction & Building Systems",
+      "speaker": "",
+      "abstract": "(ICBS) Group explores how advances in robotics, artificial intelligence, and spatial interfaces are transforming the way we design, fabricate, and assemble the built environment. This lecture introduces two complementary strands of the group's work: distributed robotic systems for on-site construction, in which bespoke machines are co-designed alongside the structures they assemble; and human–machine collaboration, which combines humans and robots towards flexible, intelligent fabrication and construction. Drawing on the group's current and past research, the talk discusses future directions for rethinking the relationships among humans, design, machines, and materials in construction. Samuel Leder Xiliu Yang",
+      "sourceId": "mpi-is",
+      "sourceName": "MPI-IS",
+      "sourceUrl": "https://is.mpg.de/events",
+      "eventUrl": "https://is.mpg.de/en/talks/intelligent-construction-building-systems",
+      "start": "2026-07-28T12:00:00+02:00",
+      "end": "2026-07-28T13:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "MPI-IS Tübingen",
+      "registrationRequired": false,
+      "registrationUrl": "https://is.mpg.de/en/talks/intelligent-construction-building-systems",
+      "topics": [
+        "AI & ML",
+        "Earth & Environment"
+      ],
+      "hostLogo": "https://is.mpg.de/assets/logos/logo_green_en-55a1f978f4981c37f203f17d6d635402376bc4788d9bf835c6e53e4b10288b06.webp",
+      "imageUrl": "",
+      "scrapedAt": "2026-07-23T08:41:29+02:00",
+      "updatedAt": "2026-07-23T08:41:29+02:00"
     },
     {
       "id": "calendar-mathematisch-naturwissenschaftliche-fakultat-fachbereich-geowiss-0786cba29e7e",
@@ -345,8 +276,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-22T08:43:44+02:00",
-      "updatedAt": "2026-07-22T08:44:02+02:00"
+      "scrapedAt": "2026-07-23T08:41:19+02:00",
+      "updatedAt": "2026-07-23T08:41:29+02:00"
     },
     {
       "id": "calendar-evangelisch-theologische-fakultat-praktische-theologie-iii-wirts-1d9af30fb211",
@@ -368,8 +299,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-22T08:43:44+02:00",
-      "updatedAt": "2026-07-22T08:44:02+02:00"
+      "scrapedAt": "2026-07-23T08:41:19+02:00",
+      "updatedAt": "2026-07-23T08:41:29+02:00"
     },
     {
       "id": "college-of-fellows-culture-2026-08-03",
@@ -393,7 +324,7 @@
       "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-07-10T00:00:00+02:00",
-      "updatedAt": "2026-07-22T08:44:02+02:00"
+      "updatedAt": "2026-07-23T08:41:29+02:00"
     },
     {
       "id": "calendar-botanischer-garten-tubingen-ce72e48c7672",
@@ -415,8 +346,55 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-22T08:43:44+02:00",
-      "updatedAt": "2026-07-22T08:44:02+02:00"
+      "scrapedAt": "2026-07-23T08:41:19+02:00",
+      "updatedAt": "2026-07-23T08:41:29+02:00"
+    },
+    {
+      "id": "mpi-is-07f6afa9068b",
+      "title": "The fastest and smallest suction feeder is a carnivorous pant – how to operate near suction feeding’s hydrodynamic limit",
+      "speaker": "Ulrike Müller, Fresno State University",
+      "abstract": "Among carnivorous plants, bladderworts stand out by having the smallest and fastest traps, completing capture events within just a few milliseconds. Their underwater milli-meter sized suction traps are hollow bladders sealed by a door. The traps are loaded by removing water from the bladder lumen, generating a sub-ambient pressure inside the trap and elastically loading the trap walls. Suction events are triggered when prey touch trigger hairs at the trap door, which causes the door to open and the prey to be sucked in. Bladderwort traps generate flow accelerations and peak speeds that far exceed values observed in similarly sized animal suction feeders and require considerably more power. Due to their small size, bladderwort traps operate in a flow regime in which suction power and ene... Janneke Schwaner",
+      "sourceId": "mpi-is",
+      "sourceName": "MPI-IS",
+      "sourceUrl": "https://is.mpg.de/events",
+      "eventUrl": "https://is.mpg.de/en/talks/the-fastest-and-smallest-suction-feeder-is-a-carnivorous-pant-how-to-operate-near-suction-feeding-s-hydrodynamic-limit",
+      "start": "2026-08-19T12:00:00+02:00",
+      "end": "2026-08-19T13:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "MPI-IS Tübingen",
+      "registrationRequired": false,
+      "registrationUrl": "https://is.mpg.de/en/talks/the-fastest-and-smallest-suction-feeder-is-a-carnivorous-pant-how-to-operate-near-suction-feeding-s-hydrodynamic-limit",
+      "topics": [
+        "AI & ML",
+        "Earth & Environment"
+      ],
+      "hostLogo": "https://is.mpg.de/assets/logos/logo_green_en-55a1f978f4981c37f203f17d6d635402376bc4788d9bf835c6e53e4b10288b06.webp",
+      "imageUrl": "",
+      "scrapedAt": "2026-07-23T08:41:29+02:00",
+      "updatedAt": "2026-07-23T08:41:29+02:00"
+    },
+    {
+      "id": "mpi-is-4e2702fcd657",
+      "title": "MLSS 2026 - Machine Learning Summer School 2026 in Tübingen",
+      "speaker": "Summer School",
+      "abstract": "MLSS's are a renowned venue for graduate students, researchers, and professionals. They offer an opportunity to learn about fundamental and advanced aspects of machine learning, data analysis and inference, from intellectual leaders of the field. In the summer of 2026 the MLSS will make its seventh appearance in Tübingen. Bernhard Schölkopf",
+      "sourceId": "mpi-is",
+      "sourceName": "MPI-IS",
+      "sourceUrl": "https://is.mpg.de/events",
+      "eventUrl": "https://is.mpg.de/en/events/mlss-2026-machine-learning-summer-school-2026-in-tubingen",
+      "start": "2026-08-31T12:00:00+02:00",
+      "end": "2026-09-11T17:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "MPI-IS Tübingen",
+      "registrationRequired": false,
+      "registrationUrl": "https://is.mpg.de/en/events/mlss-2026-machine-learning-summer-school-2026-in-tubingen",
+      "topics": [
+        "AI & ML"
+      ],
+      "hostLogo": "https://is.mpg.de/assets/logos/logo_green_en-55a1f978f4981c37f203f17d6d635402376bc4788d9bf835c6e53e4b10288b06.webp",
+      "imageUrl": "",
+      "scrapedAt": "2026-07-23T08:41:29+02:00",
+      "updatedAt": "2026-07-23T08:41:29+02:00"
     },
     {
       "id": "calendar-wirtschafts-und-sozialwissenschaftliche-fakultat-ludwig-uhland-i-9fa263d29322",
@@ -438,8 +416,31 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-22T08:43:44+02:00",
-      "updatedAt": "2026-07-22T08:44:02+02:00"
+      "scrapedAt": "2026-07-23T08:41:19+02:00",
+      "updatedAt": "2026-07-23T08:41:29+02:00"
+    },
+    {
+      "id": "mpi-is-63a8390c7da6",
+      "title": "CaCTüS Scientific Symposium 2026",
+      "speaker": "On Friday, September 18, 2026 interns will present the results of their research projects to the campus community, showcasing the research and scientific soft skills they have developed throughout the internship. Following the presentations, we invite you to join us for food and drinks.",
+      "abstract": "The symposium marks the conclusion of this year’s CaCTüS internship On Friday, September 18, 2026 interns will present the results of their research projects to the campus community, showcasing the research and scientific soft skills they have developed throughout the internship. Following the presentations, we invite you to join us for food and drinks. Lea Nagel",
+      "sourceId": "mpi-is",
+      "sourceName": "MPI-IS",
+      "sourceUrl": "https://is.mpg.de/events",
+      "eventUrl": "https://is.mpg.de/en/events/2026-cactus-scientific-symposium",
+      "start": "2026-09-18T12:00:00+02:00",
+      "end": "2026-09-18T13:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "MPI-IS Tübingen",
+      "registrationRequired": true,
+      "registrationUrl": "https://is.mpg.de/en/events/2026-cactus-scientific-symposium",
+      "topics": [
+        "Public Lecture"
+      ],
+      "hostLogo": "https://is.mpg.de/assets/logos/logo_green_en-55a1f978f4981c37f203f17d6d635402376bc4788d9bf835c6e53e4b10288b06.webp",
+      "imageUrl": "",
+      "scrapedAt": "2026-07-23T08:41:29+02:00",
+      "updatedAt": "2026-07-23T08:41:29+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-090b4b73ab06",
@@ -461,8 +462,31 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-22T08:43:44+02:00",
-      "updatedAt": "2026-07-22T08:44:02+02:00"
+      "scrapedAt": "2026-07-23T08:41:19+02:00",
+      "updatedAt": "2026-07-23T08:41:29+02:00"
+    },
+    {
+      "id": "mpi-is-a8f483af8d13",
+      "title": "Responsible Conduct in Research: 2026",
+      "speaker": "Registration",
+      "abstract": "Principles of good scientific practice can be challenged in many ways, from improper application of scientific methods to serious scientific misconduct. This training introduces core concepts of responsible conduct in research and promotes shared standards of scientific integrity across our research community. Sarah Danes Ana-Andreea Stoica Vincent Berenz",
+      "sourceId": "mpi-is",
+      "sourceName": "MPI-IS",
+      "sourceUrl": "https://is.mpg.de/events",
+      "eventUrl": "https://is.mpg.de/en/events/responsible-conduct-in-research-2026",
+      "start": "2026-10-19T12:00:00+02:00",
+      "end": "2026-10-19T13:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "MPI-IS Tübingen",
+      "registrationRequired": true,
+      "registrationUrl": "https://is.mpg.de/en/events/responsible-conduct-in-research-2026",
+      "topics": [
+        "AI & ML"
+      ],
+      "hostLogo": "https://is.mpg.de/assets/logos/logo_green_en-55a1f978f4981c37f203f17d6d635402376bc4788d9bf835c6e53e4b10288b06.webp",
+      "imageUrl": "",
+      "scrapedAt": "2026-07-23T08:41:29+02:00",
+      "updatedAt": "2026-07-23T08:41:29+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-und-partner-22bebd9208a3",
@@ -484,8 +508,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-22T08:43:44+02:00",
-      "updatedAt": "2026-07-22T08:44:02+02:00"
+      "scrapedAt": "2026-07-23T08:41:19+02:00",
+      "updatedAt": "2026-07-23T08:41:29+02:00"
     },
     {
       "id": "calendar-philosophische-fakultat-6037a43cc2d6",
@@ -507,8 +531,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-22T08:43:44+02:00",
-      "updatedAt": "2026-07-22T08:44:02+02:00"
+      "scrapedAt": "2026-07-23T08:41:19+02:00",
+      "updatedAt": "2026-07-23T08:41:29+02:00"
     },
     {
       "id": "calendar-internationales-zentrum-fur-ethik-in-den-wissenschaften-izew-kom-4495a0356637",
@@ -530,8 +554,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-22T08:43:45+02:00",
-      "updatedAt": "2026-07-22T08:44:02+02:00"
+      "scrapedAt": "2026-07-23T08:41:19+02:00",
+      "updatedAt": "2026-07-23T08:41:29+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-944bd955193e",
@@ -553,8 +577,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-22T08:43:45+02:00",
-      "updatedAt": "2026-07-22T08:44:02+02:00"
+      "scrapedAt": "2026-07-23T08:41:19+02:00",
+      "updatedAt": "2026-07-23T08:41:29+02:00"
     }
   ]
 }
