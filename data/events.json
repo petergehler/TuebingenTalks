@@ -1,53 +1,7 @@
 {
-  "version": "2026-07-24T08:41:06+02:00",
-  "generatedAt": "2026-07-24T08:41:06+02:00",
+  "version": "2026-07-25T08:30:55+02:00",
+  "generatedAt": "2026-07-25T08:30:55+02:00",
   "events": [
-    {
-      "id": "calendar-museum-der-universitat-tubingen-mut-f399285a284e",
-      "title": "Apostel Paulus und das Geld. Antike Münzen zwischen jüdischer und griechisch-römischer Welt",
-      "speaker": "",
-      "abstract": "VR-Ausstellung Dank modernster Virtual-Reality-Technologie können die Besucherinnen und Besucher im MUT | Antike Kulturen auf Schloss Hohentübingen zwischen 11 und…",
-      "sourceId": "calendar-museum-der-universitat-tubingen-mut",
-      "sourceName": "Museum der Universität Tübingen MUT",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/apostel-paulus-und-das-geld-antike-muenzen-zwischen-juedischer-und-griechisch-roemischer-welt-6/",
-      "start": "2026-07-24T11:00:00+02:00",
-      "end": "2026-07-24T15:00:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Museum Alte Kulturen, Schloss Hohentübingen, Burgsteige 11",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/apostel-paulus-und-das-geld-antike-muenzen-zwischen-juedischer-und-griechisch-roemischer-welt-6/",
-      "topics": [
-        "Public Lecture"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-07-24T08:40:55+02:00",
-      "updatedAt": "2026-07-24T08:41:06+02:00"
-    },
-    {
-      "id": "calendar-botanischer-garten-tubingen-8074f78e1fad",
-      "title": "Wilde Vielfalt - Pfützen, Teiche, Bäche: Lebensraum Wasser",
-      "speaker": "Dr. Christoph Allgaier",
-      "abstract": "Führung Begleitführung zur Sommerausstellung im Botanischen Garten Tübingen Derzeit läuft die Sommerausstellung \"Wilde Vielfalt\" im Botanischen Garten…",
-      "sourceId": "calendar-botanischer-garten-tubingen",
-      "sourceName": "Botanischer Garten Tübingen",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/wilde-vielfalt-pfuetzen-teiche-baeche-lebensraum-wasser-1/",
-      "start": "2026-07-24T15:00:00+02:00",
-      "end": "2026-07-24T16:30:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Botanischer Garten Tübingen, Treffpunkt: Haupteingang des Gartens neben Gebäude Nr. 5 (Auf der Morgenstelle)",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/wilde-vielfalt-pfuetzen-teiche-baeche-lebensraum-wasser-1/",
-      "topics": [
-        "AI & ML"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-07-24T08:40:55+02:00",
-      "updatedAt": "2026-07-24T08:41:06+02:00"
-    },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-525e9e7f5286",
       "title": "Apostel Paulus und das Geld. Antike Münzen zwischen jüdischer und griechisch-römischer Welt",
@@ -68,8 +22,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-24T08:40:55+02:00",
-      "updatedAt": "2026-07-24T08:41:06+02:00"
+      "scrapedAt": "2026-07-25T08:30:37+02:00",
+      "updatedAt": "2026-07-25T08:30:55+02:00"
     },
     {
       "id": "calendar-sfb-1391-andere-asthetik-c9dac086e412",
@@ -91,8 +45,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-24T08:40:55+02:00",
-      "updatedAt": "2026-07-24T08:41:06+02:00"
+      "scrapedAt": "2026-07-25T08:30:37+02:00",
+      "updatedAt": "2026-07-25T08:30:55+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-4bc2cadd9d51",
@@ -114,8 +68,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-24T08:40:55+02:00",
-      "updatedAt": "2026-07-24T08:41:06+02:00"
+      "scrapedAt": "2026-07-25T08:30:37+02:00",
+      "updatedAt": "2026-07-25T08:30:55+02:00"
     },
     {
       "id": "calendar-kulturreferat-der-universitat-tubingen-da6e41744192",
@@ -137,8 +91,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-24T08:40:55+02:00",
-      "updatedAt": "2026-07-24T08:41:06+02:00"
+      "scrapedAt": "2026-07-25T08:30:37+02:00",
+      "updatedAt": "2026-07-25T08:30:55+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-2114c443d6e3",
@@ -160,8 +114,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-24T08:40:55+02:00",
-      "updatedAt": "2026-07-24T08:41:06+02:00"
+      "scrapedAt": "2026-07-25T08:30:37+02:00",
+      "updatedAt": "2026-07-25T08:30:55+02:00"
     },
     {
       "id": "calendar-mathematisch-naturwissenschaftliche-fakultat-fachbereich-geowiss-0786cba29e7e",
@@ -183,8 +137,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-24T08:40:55+02:00",
-      "updatedAt": "2026-07-24T08:41:06+02:00"
+      "scrapedAt": "2026-07-25T08:30:37+02:00",
+      "updatedAt": "2026-07-25T08:30:55+02:00"
     },
     {
       "id": "calendar-evangelisch-theologische-fakultat-praktische-theologie-iii-wirts-1d9af30fb211",
@@ -206,8 +160,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-24T08:40:56+02:00",
-      "updatedAt": "2026-07-24T08:41:06+02:00"
+      "scrapedAt": "2026-07-25T08:30:37+02:00",
+      "updatedAt": "2026-07-25T08:30:55+02:00"
     },
     {
       "id": "college-of-fellows-culture-2026-08-03",
@@ -231,7 +185,7 @@
       "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-07-10T00:00:00+02:00",
-      "updatedAt": "2026-07-24T08:41:06+02:00"
+      "updatedAt": "2026-07-25T08:30:55+02:00"
     },
     {
       "id": "calendar-botanischer-garten-tubingen-ce72e48c7672",
@@ -253,8 +207,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-24T08:40:56+02:00",
-      "updatedAt": "2026-07-24T08:41:06+02:00"
+      "scrapedAt": "2026-07-25T08:30:37+02:00",
+      "updatedAt": "2026-07-25T08:30:55+02:00"
     },
     {
       "id": "calendar-wirtschafts-und-sozialwissenschaftliche-fakultat-ludwig-uhland-i-9fa263d29322",
@@ -276,8 +230,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-24T08:40:56+02:00",
-      "updatedAt": "2026-07-24T08:41:06+02:00"
+      "scrapedAt": "2026-07-25T08:30:37+02:00",
+      "updatedAt": "2026-07-25T08:30:55+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-090b4b73ab06",
@@ -300,7 +254,7 @@
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-07-24T08:40:56+02:00",
-      "updatedAt": "2026-07-24T08:41:06+02:00"
+      "updatedAt": "2026-07-25T08:30:55+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-und-partner-22bebd9208a3",
@@ -322,8 +276,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-24T08:40:56+02:00",
-      "updatedAt": "2026-07-24T08:41:06+02:00"
+      "scrapedAt": "2026-07-25T08:30:39+02:00",
+      "updatedAt": "2026-07-25T08:30:55+02:00"
     },
     {
       "id": "calendar-philosophische-fakultat-6037a43cc2d6",
@@ -345,8 +299,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-24T08:40:56+02:00",
-      "updatedAt": "2026-07-24T08:41:06+02:00"
+      "scrapedAt": "2026-07-25T08:30:39+02:00",
+      "updatedAt": "2026-07-25T08:30:55+02:00"
     },
     {
       "id": "calendar-internationales-zentrum-fur-ethik-in-den-wissenschaften-izew-kom-4495a0356637",
@@ -368,8 +322,32 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-24T08:40:56+02:00",
-      "updatedAt": "2026-07-24T08:41:06+02:00"
+      "scrapedAt": "2026-07-25T08:30:39+02:00",
+      "updatedAt": "2026-07-25T08:30:55+02:00"
+    },
+    {
+      "id": "college-of-fellows-5776f821801b",
+      "title": "Is the Law Faking? On the culture of legal lies and other legal truths",
+      "speaker": "Dr. Hans Lind",
+      "abstract": "CoF Lecture Series From the Talmudic tradition over Roman law to Islamic law, counterfactuals have populated legal history – and still prevail. While Bentham has…",
+      "sourceId": "college-of-fellows",
+      "sourceName": "College of Fellows",
+      "sourceUrl": "https://uni-tuebingen.de/forschung/zentren-und-institute/college-of-fellows/events/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/is-the-law-faking-on-the-culture-of-legal-lies-and-other-legal-truths/",
+      "start": "2026-12-09T18:30:00+02:00",
+      "end": "2026-12-09T19:30:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Villa Köstlin, Rümelinstr. 27",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/is-the-law-faking-on-the-culture-of-legal-lies-and-other-legal-truths/",
+      "topics": [
+        "AI & ML",
+        "Law & Society"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-07-25T08:30:39+02:00",
+      "updatedAt": "2026-07-25T08:30:55+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-944bd955193e",
@@ -391,8 +369,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-24T08:40:56+02:00",
-      "updatedAt": "2026-07-24T08:41:06+02:00"
+      "scrapedAt": "2026-07-25T08:30:39+02:00",
+      "updatedAt": "2026-07-25T08:30:55+02:00"
     }
   ]
 }
