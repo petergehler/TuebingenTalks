@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T09:05:44+02:00",
+  "generatedAt": "2026-07-27T09:54:57+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -301,6 +301,14 @@
     {
       "id": "calendar-mathematisch-naturwissenschaftliche-fakultat-fachbereich-geowiss",
       "name": "Mathematisch-Naturwissenschaftliche Fakultät, Fachbereich Geowissenschaften",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-universitat-tubingen-in-zusammenarbeit-mit-der-universitatsstadt",
+      "name": "Universität Tübingen in Zusammenarbeit mit der Universitätsstadt Tübingen",
       "type": "html",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "selectable": true,

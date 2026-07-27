@@ -1,29 +1,52 @@
 {
-  "version": "2026-07-26T09:05:44+02:00",
-  "generatedAt": "2026-07-26T09:05:44+02:00",
+  "version": "2026-07-27T09:54:57+02:00",
+  "generatedAt": "2026-07-27T09:54:57+02:00",
   "events": [
     {
-      "id": "calendar-museum-der-universitat-tubingen-mut-2114c443d6e3",
-      "title": "We are family – die Karriere von Seschemnefer III. und seiner Familie im Alten Ägypten",
-      "speaker": "Dunja Al-kayid, M.A.",
-      "abstract": "Mitarbeitende des Museums der Universität Tübingen MUT tragen sonntags jeweils um 11 Uhr zu ausgewählten Sonderthemen vor und führen durch die…",
-      "sourceId": "calendar-museum-der-universitat-tubingen-mut",
-      "sourceName": "Museum der Universität Tübingen MUT",
+      "id": "calendar-universitat-tubingen-in-zusammenarbeit-mit-der-universitatsstadt-94bebc0766e8",
+      "title": "Wem gehören Sammlungen? Provenienzforschung am MUT zwischen kolonialem Erbe, Restitution und Verantwortung",
+      "speaker": "Dr. Annika Vosseler & Dr. Anne Kremmer",
+      "abstract": "Sommeruniversität Was bedeutet Provenienzforschung an einem Universitätsmuseum? Der Vortrag gibt Einblicke in die Arbeit am Museum der Universität Tübingen MUT und…",
+      "sourceId": "calendar-universitat-tubingen-in-zusammenarbeit-mit-der-universitatsstadt",
+      "sourceName": "Universität Tübingen in Zusammenarbeit mit der Universitätsstadt Tübingen",
       "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/we-are-family-die-karriere-von-seschemnefer-iii-und-seiner-familie-im-alten-aegypten/",
-      "start": "2026-07-26T11:00:00+02:00",
-      "end": "2026-07-26T12:00:00+02:00",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/wem-gehoeren-sammlungen-provenienzforschung-am-mut-zwischen-kolonialem-erbe-restitution-und-verantwortung/",
+      "start": "2026-07-27T10:15:00+02:00",
+      "end": "2026-07-27T11:15:00+02:00",
       "timezone": "Europe/Berlin",
-      "location": "Museum Alte Kulturen, Schloss Hohentübingen, Burgsteige 11",
+      "location": "Hörsaal des Theologicums, Liebermeisterstraße 16",
       "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/we-are-family-die-karriere-von-seschemnefer-iii-und-seiner-familie-im-alten-aegypten/",
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/wem-gehoeren-sammlungen-provenienzforschung-am-mut-zwischen-kolonialem-erbe-restitution-und-verantwortung/",
       "topics": [
         "Public Lecture"
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-26T09:05:30+02:00",
-      "updatedAt": "2026-07-26T09:05:44+02:00"
+      "scrapedAt": "2026-07-27T09:54:36+02:00",
+      "updatedAt": "2026-07-27T09:54:57+02:00"
+    },
+    {
+      "id": "calendar-universitat-tubingen-in-zusammenarbeit-mit-der-universitatsstadt-4ccdb079e35c",
+      "title": "KI und Bildung: Geht das zusammen?",
+      "speaker": "Prof. Dr. Andreas Lachner",
+      "abstract": "Sommeruniversität 2026 Künstliche Intelligenz (KI) erfasst gegenwärtig nahezu alle gesellschaftlichen Lebensbereiche und verändert dabei grundlegend, wie Menschen lernen,…",
+      "sourceId": "calendar-universitat-tubingen-in-zusammenarbeit-mit-der-universitatsstadt",
+      "sourceName": "Universität Tübingen in Zusammenarbeit mit der Universitätsstadt Tübingen",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/ki-und-bildung-geht-das-zusammen-1/",
+      "start": "2026-07-28T10:15:00+02:00",
+      "end": "2026-07-28T11:15:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Hörsaal des Theologicums, Liebermeisterstraße 16",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/ki-und-bildung-geht-das-zusammen-1/",
+      "topics": [
+        "Public Lecture"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-07-27T09:54:36+02:00",
+      "updatedAt": "2026-07-27T09:54:57+02:00"
     },
     {
       "id": "calendar-mathematisch-naturwissenschaftliche-fakultat-fachbereich-geowiss-0786cba29e7e",
@@ -45,8 +68,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-26T09:05:30+02:00",
-      "updatedAt": "2026-07-26T09:05:44+02:00"
+      "scrapedAt": "2026-07-27T09:54:36+02:00",
+      "updatedAt": "2026-07-27T09:54:57+02:00"
     },
     {
       "id": "calendar-evangelisch-theologische-fakultat-praktische-theologie-iii-wirts-1d9af30fb211",
@@ -68,8 +91,77 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-26T09:05:30+02:00",
-      "updatedAt": "2026-07-26T09:05:44+02:00"
+      "scrapedAt": "2026-07-27T09:54:36+02:00",
+      "updatedAt": "2026-07-27T09:54:57+02:00"
+    },
+    {
+      "id": "calendar-universitat-tubingen-in-zusammenarbeit-mit-der-universitatsstadt-ac91f4898f11",
+      "title": "Ein südkoreanischer Sonderweg? Fallen und Tücken einer Erfolgsgeschichte",
+      "speaker": "Prof. Dr. You Jae Lee",
+      "abstract": "Sommeruniversität 2026 Südkorea hat wie kaum ein anderer postkolonialer Staat den Sprung in die Liga der Industrienationen geschafft. Auch die südkoreanische Populärkultur…",
+      "sourceId": "calendar-universitat-tubingen-in-zusammenarbeit-mit-der-universitatsstadt",
+      "sourceName": "Universität Tübingen in Zusammenarbeit mit der Universitätsstadt Tübingen",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/ein-suedkoreanischer-sonderweg-fallen-und-tuecken-einer-erfolgsgeschichte/",
+      "start": "2026-07-29T10:15:00+02:00",
+      "end": "2026-07-29T11:15:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Hörsaal des Theologicums, Liebermeisterstraße 16",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/ein-suedkoreanischer-sonderweg-fallen-und-tuecken-einer-erfolgsgeschichte/",
+      "topics": [
+        "Public Lecture"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-07-27T09:54:36+02:00",
+      "updatedAt": "2026-07-27T09:54:57+02:00"
+    },
+    {
+      "id": "calendar-universitat-tubingen-in-zusammenarbeit-mit-der-universitatsstadt-2b6a8dbd9311",
+      "title": "Die Ewigkeitschemikalien PFAS – neue Probleme mit „alten“ Stoffen?",
+      "speaker": "Prof. Dr. Christian Zwiener",
+      "abstract": "Sommeruniversität 2026 Poly- und Perfluoralkylsubstanzen (PFAS) umfassen tausende Einzelstoffe und werden aufgrund ihrer besonderen Eigenschaften sehr vielfältig verwendet…",
+      "sourceId": "calendar-universitat-tubingen-in-zusammenarbeit-mit-der-universitatsstadt",
+      "sourceName": "Universität Tübingen in Zusammenarbeit mit der Universitätsstadt Tübingen",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/die-ewigkeitschemikalien-pfas-neue-probleme-mit-alten-stoffen/",
+      "start": "2026-07-30T10:15:00+02:00",
+      "end": "2026-07-30T11:15:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Hörsaal des Theologicums, Liebermeisterstraße 16",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/die-ewigkeitschemikalien-pfas-neue-probleme-mit-alten-stoffen/",
+      "topics": [
+        "Public Lecture"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-07-27T09:54:36+02:00",
+      "updatedAt": "2026-07-27T09:54:57+02:00"
+    },
+    {
+      "id": "calendar-universitat-tubingen-in-zusammenarbeit-mit-der-universitatsstadt-bebaccf7670b",
+      "title": "Schallplatten und ihre Beilagen als Sammlungsobjekte an der Universität Tübingen",
+      "speaker": "Prof. Dr. Thomas Schipperges & Dr. Jörg Büchler",
+      "abstract": "Sommeruniversität 2026 Spätestens seit Nick Hornbys Roman High Fidelity (1995) geriet die Vinyl-Szene neu in Bewegung. Die Rückkehr der Langspielplatte – seit 1948…",
+      "sourceId": "calendar-universitat-tubingen-in-zusammenarbeit-mit-der-universitatsstadt",
+      "sourceName": "Universität Tübingen in Zusammenarbeit mit der Universitätsstadt Tübingen",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/schallplatten-und-ihre-beilagen-als-sammlungsobjekte-an-der-universitaet-tuebingen/",
+      "start": "2026-07-31T10:15:00+02:00",
+      "end": "2026-07-31T11:15:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Hörsaal des Theologicums, Liebermeisterstraße 16",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/schallplatten-und-ihre-beilagen-als-sammlungsobjekte-an-der-universitaet-tuebingen/",
+      "topics": [
+        "Public Lecture"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-07-27T09:54:36+02:00",
+      "updatedAt": "2026-07-27T09:54:57+02:00"
     },
     {
       "id": "college-of-fellows-culture-2026-08-03",
@@ -93,7 +185,7 @@
       "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-07-10T00:00:00+02:00",
-      "updatedAt": "2026-07-26T09:05:44+02:00"
+      "updatedAt": "2026-07-27T09:54:57+02:00"
     },
     {
       "id": "calendar-botanischer-garten-tubingen-ce72e48c7672",
@@ -115,8 +207,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-26T09:05:30+02:00",
-      "updatedAt": "2026-07-26T09:05:44+02:00"
+      "scrapedAt": "2026-07-27T09:54:36+02:00",
+      "updatedAt": "2026-07-27T09:54:57+02:00"
     },
     {
       "id": "calendar-wirtschafts-und-sozialwissenschaftliche-fakultat-ludwig-uhland-i-9fa263d29322",
@@ -138,8 +230,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-26T09:05:30+02:00",
-      "updatedAt": "2026-07-26T09:05:44+02:00"
+      "scrapedAt": "2026-07-27T09:54:36+02:00",
+      "updatedAt": "2026-07-27T09:54:57+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-090b4b73ab06",
@@ -161,8 +253,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-26T09:05:30+02:00",
-      "updatedAt": "2026-07-26T09:05:44+02:00"
+      "scrapedAt": "2026-07-27T09:54:36+02:00",
+      "updatedAt": "2026-07-27T09:54:57+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-und-partner-22bebd9208a3",
@@ -184,8 +276,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-26T09:05:30+02:00",
-      "updatedAt": "2026-07-26T09:05:44+02:00"
+      "scrapedAt": "2026-07-27T09:54:37+02:00",
+      "updatedAt": "2026-07-27T09:54:57+02:00"
     },
     {
       "id": "calendar-philosophische-fakultat-6037a43cc2d6",
@@ -207,8 +299,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-25T08:30:39+02:00",
-      "updatedAt": "2026-07-26T09:05:44+02:00"
+      "scrapedAt": "2026-07-27T09:54:37+02:00",
+      "updatedAt": "2026-07-27T09:54:57+02:00"
     },
     {
       "id": "calendar-internationales-zentrum-fur-ethik-in-den-wissenschaften-izew-kom-4495a0356637",
@@ -230,8 +322,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-25T08:30:39+02:00",
-      "updatedAt": "2026-07-26T09:05:44+02:00"
+      "scrapedAt": "2026-07-27T09:54:37+02:00",
+      "updatedAt": "2026-07-27T09:54:57+02:00"
     },
     {
       "id": "college-of-fellows-5776f821801b",
@@ -254,8 +346,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-25T08:30:39+02:00",
-      "updatedAt": "2026-07-26T09:05:44+02:00"
+      "scrapedAt": "2026-07-27T09:54:37+02:00",
+      "updatedAt": "2026-07-27T09:54:57+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-944bd955193e",
@@ -277,8 +369,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-26T09:05:31+02:00",
-      "updatedAt": "2026-07-26T09:05:44+02:00"
+      "scrapedAt": "2026-07-27T09:54:37+02:00",
+      "updatedAt": "2026-07-27T09:54:57+02:00"
     }
   ]
 }
