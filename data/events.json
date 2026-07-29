@@ -1,30 +1,7 @@
 {
-  "version": "2026-07-28T08:42:33+02:00",
-  "generatedAt": "2026-07-28T08:42:33+02:00",
+  "version": "2026-07-29T08:46:53+02:00",
+  "generatedAt": "2026-07-29T08:46:53+02:00",
   "events": [
-    {
-      "id": "calendar-universitat-tubingen-in-zusammenarbeit-mit-der-universitatsstadt-4ccdb079e35c",
-      "title": "KI und Bildung: Geht das zusammen?",
-      "speaker": "Prof. Dr. Andreas Lachner",
-      "abstract": "Sommeruniversität 2026 Künstliche Intelligenz (KI) erfasst gegenwärtig nahezu alle gesellschaftlichen Lebensbereiche und verändert dabei grundlegend, wie Menschen lernen,…",
-      "sourceId": "calendar-universitat-tubingen-in-zusammenarbeit-mit-der-universitatsstadt",
-      "sourceName": "Universität Tübingen in Zusammenarbeit mit der Universitätsstadt Tübingen",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/ki-und-bildung-geht-das-zusammen-1/",
-      "start": "2026-07-28T10:15:00+02:00",
-      "end": "2026-07-28T11:15:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Hörsaal des Theologicums, Liebermeisterstraße 16",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/ki-und-bildung-geht-das-zusammen-1/",
-      "topics": [
-        "Public Lecture"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-07-28T08:42:20+02:00",
-      "updatedAt": "2026-07-28T08:42:33+02:00"
-    },
     {
       "id": "calendar-mathematisch-naturwissenschaftliche-fakultat-fachbereich-geowiss-0786cba29e7e",
       "title": "Strategieworkshop Wasserversorgung 2070",
@@ -45,8 +22,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-28T08:42:20+02:00",
-      "updatedAt": "2026-07-28T08:42:33+02:00"
+      "scrapedAt": "2026-07-29T08:46:36+02:00",
+      "updatedAt": "2026-07-29T08:46:53+02:00"
     },
     {
       "id": "calendar-evangelisch-theologische-fakultat-praktische-theologie-iii-wirts-1d9af30fb211",
@@ -68,8 +45,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-28T08:42:20+02:00",
-      "updatedAt": "2026-07-28T08:42:33+02:00"
+      "scrapedAt": "2026-07-29T08:46:36+02:00",
+      "updatedAt": "2026-07-29T08:46:53+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-in-zusammenarbeit-mit-der-universitatsstadt-ac91f4898f11",
@@ -91,8 +68,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-28T08:42:20+02:00",
-      "updatedAt": "2026-07-28T08:42:33+02:00"
+      "scrapedAt": "2026-07-29T08:46:36+02:00",
+      "updatedAt": "2026-07-29T08:46:53+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-in-zusammenarbeit-mit-der-universitatsstadt-2b6a8dbd9311",
@@ -114,8 +91,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-28T08:42:20+02:00",
-      "updatedAt": "2026-07-28T08:42:33+02:00"
+      "scrapedAt": "2026-07-29T08:46:36+02:00",
+      "updatedAt": "2026-07-29T08:46:53+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-in-zusammenarbeit-mit-der-universitatsstadt-bebaccf7670b",
@@ -137,8 +114,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-28T08:42:20+02:00",
-      "updatedAt": "2026-07-28T08:42:33+02:00"
+      "scrapedAt": "2026-07-29T08:46:36+02:00",
+      "updatedAt": "2026-07-29T08:46:53+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-628ced90870a",
@@ -160,8 +137,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-28T08:42:20+02:00",
-      "updatedAt": "2026-07-28T08:42:33+02:00"
+      "scrapedAt": "2026-07-29T08:46:36+02:00",
+      "updatedAt": "2026-07-29T08:46:53+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-a2cf299fc642",
@@ -183,8 +160,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-28T08:42:20+02:00",
-      "updatedAt": "2026-07-28T08:42:33+02:00"
+      "scrapedAt": "2026-07-29T08:46:36+02:00",
+      "updatedAt": "2026-07-29T08:46:53+02:00"
     },
     {
       "id": "college-of-fellows-culture-2026-08-03",
@@ -208,7 +185,7 @@
       "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-07-10T00:00:00+02:00",
-      "updatedAt": "2026-07-28T08:42:33+02:00"
+      "updatedAt": "2026-07-29T08:46:53+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-8fe4386c79c7",
@@ -230,8 +207,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-28T08:42:20+02:00",
-      "updatedAt": "2026-07-28T08:42:33+02:00"
+      "scrapedAt": "2026-07-29T08:46:36+02:00",
+      "updatedAt": "2026-07-29T08:46:53+02:00"
     },
     {
       "id": "calendar-botanischer-garten-tubingen-ce72e48c7672",
@@ -253,8 +230,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-28T08:42:20+02:00",
-      "updatedAt": "2026-07-28T08:42:33+02:00"
+      "scrapedAt": "2026-07-29T08:46:36+02:00",
+      "updatedAt": "2026-07-29T08:46:53+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-b41187ec9eae",
@@ -276,8 +253,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-28T08:42:21+02:00",
-      "updatedAt": "2026-07-28T08:42:33+02:00"
+      "scrapedAt": "2026-07-29T08:46:36+02:00",
+      "updatedAt": "2026-07-29T08:46:53+02:00"
     },
     {
       "id": "college-of-fellows-146efa398828",
@@ -299,8 +276,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-28T08:42:21+02:00",
-      "updatedAt": "2026-07-28T08:42:33+02:00"
+      "scrapedAt": "2026-07-29T08:46:37+02:00",
+      "updatedAt": "2026-07-29T08:46:53+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-b9eb01dd7994",
@@ -322,8 +299,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-28T08:42:21+02:00",
-      "updatedAt": "2026-07-28T08:42:33+02:00"
+      "scrapedAt": "2026-07-29T08:46:37+02:00",
+      "updatedAt": "2026-07-29T08:46:53+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-21f7ab696eaa",
@@ -345,8 +322,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-28T08:42:21+02:00",
-      "updatedAt": "2026-07-28T08:42:33+02:00"
+      "scrapedAt": "2026-07-29T08:46:37+02:00",
+      "updatedAt": "2026-07-29T08:46:53+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-481e52455c86",
@@ -368,8 +345,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-28T08:42:21+02:00",
-      "updatedAt": "2026-07-28T08:42:33+02:00"
+      "scrapedAt": "2026-07-29T08:46:37+02:00",
+      "updatedAt": "2026-07-29T08:46:53+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-543bb179d25d",
@@ -391,8 +368,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-28T08:42:21+02:00",
-      "updatedAt": "2026-07-28T08:42:33+02:00"
+      "scrapedAt": "2026-07-29T08:46:37+02:00",
+      "updatedAt": "2026-07-29T08:46:53+02:00"
     },
     {
       "id": "calendar-wirtschafts-und-sozialwissenschaftliche-fakultat-ludwig-uhland-i-9fa263d29322",
@@ -414,8 +391,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-28T08:42:21+02:00",
-      "updatedAt": "2026-07-28T08:42:33+02:00"
+      "scrapedAt": "2026-07-29T08:46:37+02:00",
+      "updatedAt": "2026-07-29T08:46:53+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-090b4b73ab06",
@@ -437,8 +414,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-28T08:42:21+02:00",
-      "updatedAt": "2026-07-28T08:42:33+02:00"
+      "scrapedAt": "2026-07-29T08:46:37+02:00",
+      "updatedAt": "2026-07-29T08:46:53+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-und-partner-22bebd9208a3",
@@ -460,8 +437,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-28T08:42:21+02:00",
-      "updatedAt": "2026-07-28T08:42:33+02:00"
+      "scrapedAt": "2026-07-29T08:46:37+02:00",
+      "updatedAt": "2026-07-29T08:46:53+02:00"
     },
     {
       "id": "calendar-philosophische-fakultat-6037a43cc2d6",
@@ -483,8 +460,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-28T08:42:21+02:00",
-      "updatedAt": "2026-07-28T08:42:33+02:00"
+      "scrapedAt": "2026-07-29T08:46:37+02:00",
+      "updatedAt": "2026-07-29T08:46:53+02:00"
     },
     {
       "id": "calendar-internationales-zentrum-fur-ethik-in-den-wissenschaften-izew-kom-4495a0356637",
@@ -506,8 +483,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-28T08:42:22+02:00",
-      "updatedAt": "2026-07-28T08:42:33+02:00"
+      "scrapedAt": "2026-07-29T08:46:37+02:00",
+      "updatedAt": "2026-07-29T08:46:53+02:00"
     },
     {
       "id": "college-of-fellows-5776f821801b",
@@ -530,8 +507,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-28T08:42:22+02:00",
-      "updatedAt": "2026-07-28T08:42:33+02:00"
+      "scrapedAt": "2026-07-29T08:46:38+02:00",
+      "updatedAt": "2026-07-29T08:46:53+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-944bd955193e",
@@ -553,8 +530,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-28T08:42:22+02:00",
-      "updatedAt": "2026-07-28T08:42:33+02:00"
+      "scrapedAt": "2026-07-29T08:46:38+02:00",
+      "updatedAt": "2026-07-29T08:46:53+02:00"
     }
   ]
 }
