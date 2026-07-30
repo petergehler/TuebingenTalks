@@ -1,76 +1,7 @@
 {
-  "version": "2026-07-29T08:46:53+02:00",
-  "generatedAt": "2026-07-29T08:46:53+02:00",
+  "version": "2026-07-30T08:43:35+02:00",
+  "generatedAt": "2026-07-30T08:43:35+02:00",
   "events": [
-    {
-      "id": "calendar-mathematisch-naturwissenschaftliche-fakultat-fachbereich-geowiss-0786cba29e7e",
-      "title": "Strategieworkshop Wasserversorgung 2070",
-      "speaker": "",
-      "abstract": "Zukunftsbilder und Handlungsstrategien für das Obere Gäu und Neckartal unter dem Eindruck des Klimawandels",
-      "sourceId": "calendar-mathematisch-naturwissenschaftliche-fakultat-fachbereich-geowiss",
-      "sourceName": "Mathematisch-Naturwissenschaftliche Fakultät, Fachbereich Geowissenschaften",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/strategieworkshop-wasserversorgung-2070/",
-      "start": "2026-07-29T09:00:00+02:00",
-      "end": "2026-07-29T17:00:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Alte Aula, Veranstaltungssaal, Münzgasse 30",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/strategieworkshop-wasserversorgung-2070/",
-      "topics": [
-        "Earth & Environment"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-07-29T08:46:36+02:00",
-      "updatedAt": "2026-07-29T08:46:53+02:00"
-    },
-    {
-      "id": "calendar-evangelisch-theologische-fakultat-praktische-theologie-iii-wirts-1d9af30fb211",
-      "title": "International Conference: Religion and the Global Far Right",
-      "speaker": "",
-      "abstract": "The far right’s engagement with religion is complex and, despite its widely recognized centrality, has long remained underexplored. Considering…",
-      "sourceId": "calendar-evangelisch-theologische-fakultat-praktische-theologie-iii-wirts",
-      "sourceName": "Evangelisch-Theologische Fakultät, Praktische Theologie III, Wirtschafts- und Sozialwissenschaftliche Fakultät, Institut für Rechtsextremismusforschung (IRex), Universität Göttingen, Evangelische Zentralstelle für Weltanschauungsfragen",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/international-conference-religion-and-the-global-far-right/",
-      "start": "2026-07-29T09:00:00+02:00",
-      "end": "2026-07-31T17:00:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Psychological Institute, HS 4329, Schleichstraße 4",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/international-conference-religion-and-the-global-far-right/",
-      "topics": [
-        "AI & ML"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-07-29T08:46:36+02:00",
-      "updatedAt": "2026-07-29T08:46:53+02:00"
-    },
-    {
-      "id": "calendar-universitat-tubingen-in-zusammenarbeit-mit-der-universitatsstadt-ac91f4898f11",
-      "title": "Ein südkoreanischer Sonderweg? Fallen und Tücken einer Erfolgsgeschichte",
-      "speaker": "Prof. Dr. You Jae Lee",
-      "abstract": "Sommeruniversität 2026 Südkorea hat wie kaum ein anderer postkolonialer Staat den Sprung in die Liga der Industrienationen geschafft. Auch die südkoreanische Populärkultur…",
-      "sourceId": "calendar-universitat-tubingen-in-zusammenarbeit-mit-der-universitatsstadt",
-      "sourceName": "Universität Tübingen in Zusammenarbeit mit der Universitätsstadt Tübingen",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/ein-suedkoreanischer-sonderweg-fallen-und-tuecken-einer-erfolgsgeschichte/",
-      "start": "2026-07-29T10:15:00+02:00",
-      "end": "2026-07-29T11:15:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Hörsaal des Theologicums, Liebermeisterstraße 16",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/ein-suedkoreanischer-sonderweg-fallen-und-tuecken-einer-erfolgsgeschichte/",
-      "topics": [
-        "Public Lecture"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-07-29T08:46:36+02:00",
-      "updatedAt": "2026-07-29T08:46:53+02:00"
-    },
     {
       "id": "calendar-universitat-tubingen-in-zusammenarbeit-mit-der-universitatsstadt-2b6a8dbd9311",
       "title": "Die Ewigkeitschemikalien PFAS – neue Probleme mit „alten“ Stoffen?",
@@ -91,8 +22,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-29T08:46:36+02:00",
-      "updatedAt": "2026-07-29T08:46:53+02:00"
+      "scrapedAt": "2026-07-30T08:43:21+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-in-zusammenarbeit-mit-der-universitatsstadt-bebaccf7670b",
@@ -114,8 +45,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-29T08:46:36+02:00",
-      "updatedAt": "2026-07-29T08:46:53+02:00"
+      "scrapedAt": "2026-07-30T08:43:21+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-628ced90870a",
@@ -137,8 +68,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-29T08:46:36+02:00",
-      "updatedAt": "2026-07-29T08:46:53+02:00"
+      "scrapedAt": "2026-07-30T08:43:21+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-a2cf299fc642",
@@ -160,8 +91,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-29T08:46:36+02:00",
-      "updatedAt": "2026-07-29T08:46:53+02:00"
+      "scrapedAt": "2026-07-30T08:43:21+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
     },
     {
       "id": "college-of-fellows-culture-2026-08-03",
@@ -185,7 +116,7 @@
       "hostLogo": "https://uni-tuebingen.de/_assets/7d66ab3e4599366251c5af46f0e770b9/Images/Logo_Universitaet_Tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-07-10T00:00:00+02:00",
-      "updatedAt": "2026-07-29T08:46:53+02:00"
+      "updatedAt": "2026-07-30T08:43:35+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-8fe4386c79c7",
@@ -207,8 +138,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-29T08:46:36+02:00",
-      "updatedAt": "2026-07-29T08:46:53+02:00"
+      "scrapedAt": "2026-07-30T08:43:21+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
     },
     {
       "id": "calendar-botanischer-garten-tubingen-ce72e48c7672",
@@ -230,8 +161,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-29T08:46:36+02:00",
-      "updatedAt": "2026-07-29T08:46:53+02:00"
+      "scrapedAt": "2026-07-30T08:43:21+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-b41187ec9eae",
@@ -253,8 +184,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-29T08:46:36+02:00",
-      "updatedAt": "2026-07-29T08:46:53+02:00"
+      "scrapedAt": "2026-07-30T08:43:21+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
     },
     {
       "id": "college-of-fellows-146efa398828",
@@ -276,8 +207,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-29T08:46:37+02:00",
-      "updatedAt": "2026-07-29T08:46:53+02:00"
+      "scrapedAt": "2026-07-30T08:43:21+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-b9eb01dd7994",
@@ -299,8 +230,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-29T08:46:37+02:00",
-      "updatedAt": "2026-07-29T08:46:53+02:00"
+      "scrapedAt": "2026-07-30T08:43:21+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-21f7ab696eaa",
@@ -322,8 +253,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-29T08:46:37+02:00",
-      "updatedAt": "2026-07-29T08:46:53+02:00"
+      "scrapedAt": "2026-07-30T08:43:22+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-481e52455c86",
@@ -345,8 +276,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-29T08:46:37+02:00",
-      "updatedAt": "2026-07-29T08:46:53+02:00"
+      "scrapedAt": "2026-07-30T08:43:22+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-543bb179d25d",
@@ -368,8 +299,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-29T08:46:37+02:00",
-      "updatedAt": "2026-07-29T08:46:53+02:00"
+      "scrapedAt": "2026-07-30T08:43:22+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
     },
     {
       "id": "calendar-wirtschafts-und-sozialwissenschaftliche-fakultat-ludwig-uhland-i-9fa263d29322",
@@ -391,8 +322,31 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-29T08:46:37+02:00",
-      "updatedAt": "2026-07-29T08:46:53+02:00"
+      "scrapedAt": "2026-07-30T08:43:22+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
+    },
+    {
+      "id": "calendar-kulturreferat-der-universitat-tubingen-843388e0260a",
+      "title": "Tschechisches Sinfonieorchester Prag – Semestereröffnungskonzert & 75 Jahre Kulturreferat der Universität",
+      "speaker": "",
+      "abstract": "Klassik-Konzerte Tübingen - Wintersaison 2026/2027 Gudni A. Emilsson – Leitung Paulius Andersson – Klavier Programm: Rachmaninoff Klavierkonzert Nr. 3 d-moll op. 30 Dvořák Sinfonie Nr. 9 e-moll op. 95…",
+      "sourceId": "calendar-kulturreferat-der-universitat-tubingen",
+      "sourceName": "Kulturreferat der Universität Tübingen",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/tschechisches-sinfonieorchester-prag-semestereroeffnungskonzert-75-jahre-kulturreferat-der-universitaet/",
+      "start": "2026-10-11T20:00:00+02:00",
+      "end": "2026-10-11T21:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Festsaal, Neue Aula, Geschwister-Scholl-Platz",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/tschechisches-sinfonieorchester-prag-semestereroeffnungskonzert-75-jahre-kulturreferat-der-universitaet/",
+      "topics": [
+        "AI & ML"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-07-30T08:43:22+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-090b4b73ab06",
@@ -414,8 +368,31 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-29T08:46:37+02:00",
-      "updatedAt": "2026-07-29T08:46:53+02:00"
+      "scrapedAt": "2026-07-30T08:43:22+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
+    },
+    {
+      "id": "calendar-kulturreferat-der-universitat-tubingen-5c2ad34692ab",
+      "title": "Göttinger Symphonie Orchester",
+      "speaker": "",
+      "abstract": "Klassik-Konzerte Tübingen - Wintersaison 2026/2027 Einführungsvortrag um 19:15 Uhr (für Konzertbesucher kostenfrei) Andreas Schüller – Leitung Felix Klieser – Horn Programm: Beethoven Coriolan-Ouvertü…",
+      "sourceId": "calendar-kulturreferat-der-universitat-tubingen",
+      "sourceName": "Kulturreferat der Universität Tübingen",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/goettinger-symphonie-orchester/",
+      "start": "2026-10-31T20:00:00+02:00",
+      "end": "2026-10-31T21:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Festsaal, Neue Aula, Geschwister-Scholl-Platz",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/goettinger-symphonie-orchester/",
+      "topics": [
+        "AI & ML"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-07-30T08:43:22+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-und-partner-22bebd9208a3",
@@ -437,8 +414,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-29T08:46:37+02:00",
-      "updatedAt": "2026-07-29T08:46:53+02:00"
+      "scrapedAt": "2026-07-30T08:43:22+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
     },
     {
       "id": "calendar-philosophische-fakultat-6037a43cc2d6",
@@ -460,8 +437,31 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-29T08:46:37+02:00",
-      "updatedAt": "2026-07-29T08:46:53+02:00"
+      "scrapedAt": "2026-07-30T08:43:22+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
+    },
+    {
+      "id": "calendar-kulturreferat-der-universitat-tubingen-6a613022adc1",
+      "title": "Pieter Wispelwey (Violoncello) - Bach-Gala",
+      "speaker": "",
+      "abstract": "Klassik-Konzerte Tübingen - Wintersaison 2026/2027 Programm: Bach Sechs Suiten für Violoncello BWV 1007-1012",
+      "sourceId": "calendar-kulturreferat-der-universitat-tubingen",
+      "sourceName": "Kulturreferat der Universität Tübingen",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/pieter-wispelwey-violoncello-bach-gala/",
+      "start": "2026-11-12T20:00:00+02:00",
+      "end": "2026-11-12T21:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Festsaal, Neue Aula, Geschwister-Scholl-Platz",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/pieter-wispelwey-violoncello-bach-gala/",
+      "topics": [
+        "AI & ML"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-07-30T08:43:22+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
     },
     {
       "id": "calendar-internationales-zentrum-fur-ethik-in-den-wissenschaften-izew-kom-4495a0356637",
@@ -483,8 +483,31 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-29T08:46:37+02:00",
-      "updatedAt": "2026-07-29T08:46:53+02:00"
+      "scrapedAt": "2026-07-30T08:43:23+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
+    },
+    {
+      "id": "calendar-kulturreferat-der-universitat-tubingen-05821fac06aa",
+      "title": "Grigory Sokolov - Klavierabend",
+      "speaker": "",
+      "abstract": "Klassik-Konzerte Tübingen - Wintersaison 2026/2027 Programm: Das Programm wird noch bekannt gegeben.",
+      "sourceId": "calendar-kulturreferat-der-universitat-tubingen",
+      "sourceName": "Kulturreferat der Universität Tübingen",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/grigory-sokolov-klavierabend/",
+      "start": "2026-11-30T20:00:00+02:00",
+      "end": "2026-11-30T21:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Festsaal, Neue Aula, Geschwister-Scholl-Platz",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/grigory-sokolov-klavierabend/",
+      "topics": [
+        "AI & ML"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-07-30T08:43:23+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
     },
     {
       "id": "college-of-fellows-5776f821801b",
@@ -507,8 +530,146 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-29T08:46:38+02:00",
-      "updatedAt": "2026-07-29T08:46:53+02:00"
+      "scrapedAt": "2026-07-30T08:43:23+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
+    },
+    {
+      "id": "calendar-kulturreferat-der-universitat-tubingen-fecdce5dd2c7",
+      "title": "Tübinger Kammerorchester - Weihnachtskonzert",
+      "speaker": "",
+      "abstract": "Klassik-Konzerte Tübingen - Wintersaison 2026/2027 Peter Weimar – Violine Jeanne Christée – Violine Programm: Bach „Zion hört die Wächter singen“ aus der Kantate BWV 140 Vivaldi Aus den Vier…",
+      "sourceId": "calendar-kulturreferat-der-universitat-tubingen",
+      "sourceName": "Kulturreferat der Universität Tübingen",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/tuebinger-kammerorchester-weihnachtskonzert/",
+      "start": "2026-12-14T20:00:00+02:00",
+      "end": "2026-12-14T21:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Festsaal, Neue Aula, Geschwister-Scholl-Platz",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/tuebinger-kammerorchester-weihnachtskonzert/",
+      "topics": [
+        "AI & ML"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-07-30T08:43:23+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
+    },
+    {
+      "id": "calendar-kulturreferat-der-universitat-tubingen-1a96394e642d",
+      "title": "Philharmonic Orchestra Hradec Králové - Neujahrskonzert",
+      "speaker": "",
+      "abstract": "Klassik-Konzerte Tübingen - Wintersaison 2026/2027 Kaspar Zehnder – Leitung Aiman Mussakhajayeva – Violine Programm: Khachaturian Konzert für Violine und Orchester d-moll op. 46 Dvořák Sinfonie Nr. 8…",
+      "sourceId": "calendar-kulturreferat-der-universitat-tubingen",
+      "sourceName": "Kulturreferat der Universität Tübingen",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/philharmonic-orchestra-hradec-kralove-neujahrskonzert/",
+      "start": "2027-01-03T20:00:00+02:00",
+      "end": "2027-01-03T21:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Festsaal, Neue Aula, Geschwister-Scholl-Platz",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/philharmonic-orchestra-hradec-kralove-neujahrskonzert/",
+      "topics": [
+        "AI & ML"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-07-30T08:43:23+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
+    },
+    {
+      "id": "calendar-kulturreferat-der-universitat-tubingen-b8a4f552e87f",
+      "title": "Tschechisches Philharmonisches Quartett Prag - Mozart & Dvořák",
+      "speaker": "",
+      "abstract": "Klassik-Konzerte Tübingen - Wintersaison 2026/2027 Darko Brlek – Klarinette Programm: Mozart Streichquartett Nr. 17 B-Dur KV 458 „Jagd-Quartett“ Mozart Klarinettenquintett A-Dur KV 581 Dvořák Streich…",
+      "sourceId": "calendar-kulturreferat-der-universitat-tubingen",
+      "sourceName": "Kulturreferat der Universität Tübingen",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/tschechisches-philharmonisches-quartett-prag-mozart-dvorak/",
+      "start": "2027-01-28T20:00:00+02:00",
+      "end": "2027-01-28T21:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Festsaal, Neue Aula, Geschwister-Scholl-Platz",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/tschechisches-philharmonisches-quartett-prag-mozart-dvorak/",
+      "topics": [
+        "AI & ML"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-07-30T08:43:23+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
+    },
+    {
+      "id": "calendar-kulturreferat-der-universitat-tubingen-73237afa847f",
+      "title": "Nationale Philharmonie Lemberg - 200 Jahre Beethoven",
+      "speaker": "",
+      "abstract": "Klassik-Konzerte Tübingen - Wintersaison 2026/2027 Einführungsvortrag um 19:15 Uhr (für Konzertbesucher kostenfrei) Gudni A. Emilsson – Leitung Marko Komonko – Violine Programm: Beethoven Konzert für…",
+      "sourceId": "calendar-kulturreferat-der-universitat-tubingen",
+      "sourceName": "Kulturreferat der Universität Tübingen",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/nationale-philharmonie-lemberg-200-jahre-beethoven/",
+      "start": "2027-02-15T20:00:00+02:00",
+      "end": "2027-02-15T21:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Festsaal, Neue Aula, Geschwister-Scholl-Platz",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/nationale-philharmonie-lemberg-200-jahre-beethoven/",
+      "topics": [
+        "AI & ML"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-07-30T08:43:23+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
+    },
+    {
+      "id": "calendar-kulturreferat-der-universitat-tubingen-d2d1535d3b9a",
+      "title": "Philharmonisches Kammerorchester Werningerode - 200 Jahre Beethoven",
+      "speaker": "",
+      "abstract": "Klassik-Konzerte Tübingen - Wintersaison 2026/2027 Christian Fitzner – Leitung Christoph Ess – Horn Programm: Mendelssohn Die Heimkehr aus der Fremde op. 89 Mozart Konzert für Horn und Orchester Es-Dur…",
+      "sourceId": "calendar-kulturreferat-der-universitat-tubingen",
+      "sourceName": "Kulturreferat der Universität Tübingen",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/philharmonisches-kammerorchester-werningerode-200-jahre-beethoven/",
+      "start": "2027-03-20T20:00:00+02:00",
+      "end": "2027-03-20T21:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Festsaal, Neue Aula, Geschwister-Scholl-Platz",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/philharmonisches-kammerorchester-werningerode-200-jahre-beethoven/",
+      "topics": [
+        "AI & ML"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-07-30T08:43:23+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
+    },
+    {
+      "id": "calendar-kulturreferat-der-universitat-tubingen-882da84bf81e",
+      "title": "Berliner Symphoniker - 550 Jahre Universität Tübingen",
+      "speaker": "",
+      "abstract": "Klassik-Konzerte Tübingen - Wintersaison 2026/2027 Gudni A. Emilsson – Leitung Raffaele D´Angelo – Klavier Programm: Sibelius Andante Festivo Haydn Ouvertüre zur Oper „Acide e Galatea“ Haydn Konzert…",
+      "sourceId": "calendar-kulturreferat-der-universitat-tubingen",
+      "sourceName": "Kulturreferat der Universität Tübingen",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/berliner-symphoniker-550-jahre-universitaet-tuebingen/",
+      "start": "2027-04-20T20:00:00+02:00",
+      "end": "2027-04-20T21:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Festsaal, Neue Aula, Geschwister-Scholl-Platz",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/berliner-symphoniker-550-jahre-universitaet-tuebingen/",
+      "topics": [
+        "AI & ML"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-07-30T08:43:23+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-944bd955193e",
@@ -530,8 +691,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-07-29T08:46:38+02:00",
-      "updatedAt": "2026-07-29T08:46:53+02:00"
+      "scrapedAt": "2026-07-30T08:43:23+02:00",
+      "updatedAt": "2026-07-30T08:43:35+02:00"
     }
   ]
 }
