@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T08:42:47+02:00",
+  "generatedAt": "2026-08-05T08:43:39+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -309,6 +309,14 @@
     {
       "id": "calendar-universitat-tubingen-in-zusammenarbeit-mit-der-universitatsstadt",
       "name": "Universität Tübingen in Zusammenarbeit mit der Universitätsstadt Tübingen",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-ethnologische-sammlung-tubingen",
+      "name": "Ethnologische Sammlung Tübingen",
       "type": "html",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "selectable": true,

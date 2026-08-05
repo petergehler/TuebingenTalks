@@ -1,6 +1,6 @@
 {
-  "version": "2026-08-04T08:42:47+02:00",
-  "generatedAt": "2026-08-04T08:42:47+02:00",
+  "version": "2026-08-05T08:43:39+02:00",
+  "generatedAt": "2026-08-05T08:43:39+02:00",
   "events": [
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-8fe4386c79c7",
@@ -22,8 +22,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:34+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:29+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     },
     {
       "id": "calendar-botanischer-garten-tubingen-ce72e48c7672",
@@ -45,8 +45,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:34+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:29+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-b41187ec9eae",
@@ -68,8 +68,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:34+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:29+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     },
     {
       "id": "college-of-fellows-146efa398828",
@@ -91,8 +91,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:34+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:29+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-b9eb01dd7994",
@@ -114,8 +114,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:34+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:29+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-21f7ab696eaa",
@@ -137,8 +137,77 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:34+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:29+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
+    },
+    {
+      "id": "calendar-museum-der-universitat-tubingen-mut-8d11948c0f14",
+      "title": "Kuratorinnenführung durch die „Agora“",
+      "speaker": "Nadja Mozdzen M.A.",
+      "abstract": "Sonderausstellung „Agora – Monumente der Demokratie“ Die Agora war das Herz der athenischen Demokratie. Ihre Monumente zeigen uns, wie die Athener…",
+      "sourceId": "calendar-museum-der-universitat-tubingen-mut",
+      "sourceName": "Museum der Universität Tübingen MUT",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/kuratorinnenfuehrung-durch-die-agora/",
+      "start": "2026-08-19T15:00:00+02:00",
+      "end": "2026-08-19T16:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Museum Alte Kulturen, Schloss Hohentübingen, Burgsteige 11",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/kuratorinnenfuehrung-durch-die-agora/",
+      "topics": [
+        "Public Lecture"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-08-05T08:43:29+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
+    },
+    {
+      "id": "calendar-museum-der-universitat-tubingen-mut-3b831c42b9b5",
+      "title": "Samstags um 3 - öffentliche Schlossführung",
+      "speaker": "",
+      "abstract": "Das Museum Alte Kulturen bietet jeden Samstag um 15 Uhr eine öffentliche Schlossführung an. Das Schloss Hohentübingen ist Teil der Eberhard Karls…",
+      "sourceId": "calendar-museum-der-universitat-tubingen-mut",
+      "sourceName": "Museum der Universität Tübingen MUT",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/samstags-um-3-oeffentliche-schlossfuehrung-2/",
+      "start": "2026-08-22T15:00:00+02:00",
+      "end": "2026-08-22T16:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Museum Alte Kulturen, Schloss Hohentübingen, Burgsteige 11",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/samstags-um-3-oeffentliche-schlossfuehrung-2/",
+      "topics": [
+        "Public Lecture"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-08-05T08:43:29+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
+    },
+    {
+      "id": "calendar-museum-der-universitat-tubingen-mut-adb1213909d1",
+      "title": "Was bleibt. Evamarie Sanders Leben, Familie und Wissenschaft",
+      "speaker": "",
+      "abstract": "Führung Führung durch Studierende der Praxisseminare Zu ausgewählten Terminen bieten Studierende, die an den Praxisseminaren zum Ausstellungsprojekt und der…",
+      "sourceId": "calendar-museum-der-universitat-tubingen-mut",
+      "sourceName": "Museum der Universität Tübingen MUT",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/was-bleibt-evamarie-sanders-leben-familie-und-wissenschaft-1/",
+      "start": "2026-08-23T12:00:00+02:00",
+      "end": "2026-08-23T13:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Museum Alte Kulturen, Schloss Hohentübingen, Burgsteige 11",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/was-bleibt-evamarie-sanders-leben-familie-und-wissenschaft-1/",
+      "topics": [
+        "Public Lecture"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-08-05T08:43:29+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-481e52455c86",
@@ -160,8 +229,77 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:34+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:29+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
+    },
+    {
+      "id": "calendar-museum-der-universitat-tubingen-mut-347e448b3da6",
+      "title": "Samstags um 3 - öffentliche Schlossführung",
+      "speaker": "",
+      "abstract": "Das Museum Alte Kulturen bietet jeden Samstag um 15 Uhr eine öffentliche Schlossführung an. Das Schloss Hohentübingen ist Teil der Eberhard Karls…",
+      "sourceId": "calendar-museum-der-universitat-tubingen-mut",
+      "sourceName": "Museum der Universität Tübingen MUT",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/samstags-um-3-oeffentliche-schlossfuehrung-3/",
+      "start": "2026-08-29T15:00:00+02:00",
+      "end": "2026-08-29T16:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Museum Alte Kulturen, Schloss Hohentübingen, Burgsteige 11",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/samstags-um-3-oeffentliche-schlossfuehrung-3/",
+      "topics": [
+        "Public Lecture"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-08-05T08:43:30+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
+    },
+    {
+      "id": "calendar-museum-der-universitat-tubingen-mut-0231b33fe363",
+      "title": "Männlich oder weiblich? Der/die Sphinx von Giza und die Verwandten",
+      "speaker": "Sabine Schloz M.A.",
+      "abstract": "Eins der bekanntesten pharaonischen Monumente ist DER Sphinx von Giza. Auch wenn sich im allgemeinen Sprachgebrauch inzwischen die feminine Form…",
+      "sourceId": "calendar-museum-der-universitat-tubingen-mut",
+      "sourceName": "Museum der Universität Tübingen MUT",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/maennlich-oder-weiblich-der-die-sphinx-von-giza-und-die-verwandten/",
+      "start": "2026-08-30T11:00:00+02:00",
+      "end": "2026-08-30T12:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Museum Alte Kulturen, Schloss Hohentübingen, Burgsteige 11",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/maennlich-oder-weiblich-der-die-sphinx-von-giza-und-die-verwandten/",
+      "topics": [
+        "Public Lecture"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-08-05T08:43:30+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
+    },
+    {
+      "id": "calendar-museum-der-universitat-tubingen-mut-a16a740cbef3",
+      "title": "Was bleibt. Evamarie Sanders Leben, Familie und Wissenschaft",
+      "speaker": "",
+      "abstract": "Führung Führung durch Studierende der Praxisseminare Zu ausgewählten Terminen bieten Studierende, die an den Praxisseminaren zum Ausstellungsprojekt und der…",
+      "sourceId": "calendar-museum-der-universitat-tubingen-mut",
+      "sourceName": "Museum der Universität Tübingen MUT",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/was-bleibt-evamarie-sanders-leben-familie-und-wissenschaft-2/",
+      "start": "2026-08-30T12:00:00+02:00",
+      "end": "2026-08-30T13:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Museum Alte Kulturen, Schloss Hohentübingen, Burgsteige 11",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/was-bleibt-evamarie-sanders-leben-familie-und-wissenschaft-2/",
+      "topics": [
+        "Public Lecture"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-08-05T08:43:30+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-543bb179d25d",
@@ -183,8 +321,169 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:34+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:30+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
+    },
+    {
+      "id": "calendar-museum-der-universitat-tubingen-mut-d446d93254d4",
+      "title": "Was bleibt. Evamarie Sanders Leben, Familie und Wissenschaft",
+      "speaker": "",
+      "abstract": "Führung Führung durch Studierende der Praxisseminare Zu ausgewählten Terminen bieten Studierende, die an den Praxisseminaren zum Ausstellungsprojekt und der…",
+      "sourceId": "calendar-museum-der-universitat-tubingen-mut",
+      "sourceName": "Museum der Universität Tübingen MUT",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/was-bleibt-evamarie-sanders-leben-familie-und-wissenschaft-3/",
+      "start": "2026-09-03T16:00:00+02:00",
+      "end": "2026-09-03T17:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Museum Alte Kulturen, Schloss Hohentübingen, Burgsteige 11",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/was-bleibt-evamarie-sanders-leben-familie-und-wissenschaft-3/",
+      "topics": [
+        "Public Lecture"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-08-05T08:43:30+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
+    },
+    {
+      "id": "calendar-museum-der-universitat-tubingen-mut-8720f0a53bdf",
+      "title": "Samstags um 3 - öffentliche Schlossführung",
+      "speaker": "",
+      "abstract": "Das Museum Alte Kulturen bietet jeden Samstag um 15 Uhr eine öffentliche Schlossführung an. Das Schloss Hohentübingen ist Teil der Eberhard Karls…",
+      "sourceId": "calendar-museum-der-universitat-tubingen-mut",
+      "sourceName": "Museum der Universität Tübingen MUT",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/samstags-um-3-oeffentliche-schlossfuehrung-4/",
+      "start": "2026-09-05T15:00:00+02:00",
+      "end": "2026-09-05T16:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Museum Alte Kulturen, Schloss Hohentübingen, Burgsteige 11",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/samstags-um-3-oeffentliche-schlossfuehrung-4/",
+      "topics": [
+        "Public Lecture"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-08-05T08:43:30+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
+    },
+    {
+      "id": "calendar-museum-der-universitat-tubingen-mut-a7a3f3d8ebc8",
+      "title": "Was bleibt. Evamarie Sanders Leben, Familie und Wissenschaft",
+      "speaker": "",
+      "abstract": "Führung Führung durch Studierende der Praxisseminare Zu ausgewählten Terminen bieten Studierende, die an den Praxisseminaren zum Ausstellungsprojekt und der…",
+      "sourceId": "calendar-museum-der-universitat-tubingen-mut",
+      "sourceName": "Museum der Universität Tübingen MUT",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/was-bleibt-evamarie-sanders-leben-familie-und-wissenschaft-4/",
+      "start": "2026-09-06T12:00:00+02:00",
+      "end": "2026-09-06T13:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Museum Alte Kulturen, Schloss Hohentübingen, Burgsteige 11",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/was-bleibt-evamarie-sanders-leben-familie-und-wissenschaft-4/",
+      "topics": [
+        "Public Lecture"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-08-05T08:43:30+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
+    },
+    {
+      "id": "calendar-ethnologische-sammlung-tubingen-4b96b33eaa68",
+      "title": "Jenseits der Vitrine: Führung durch das Museum WeltKulturen",
+      "speaker": "",
+      "abstract": "Jeden ersten Sonntag im Monat um 14 Uhr Was bedeutet es, Objekten zu begegnen, die ihrem kulturellen Umfeld entrissen wurden und Spuren kolonialer…",
+      "sourceId": "calendar-ethnologische-sammlung-tubingen",
+      "sourceName": "Ethnologische Sammlung Tübingen",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/jenseits-der-vitrine-fuehrung-durch-das-museum-weltkulturen/",
+      "start": "2026-09-06T14:00:00+02:00",
+      "end": "2026-09-06T15:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "MUT, Schloss Hohentübingen, Burgsteige 11",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/jenseits-der-vitrine-fuehrung-durch-das-museum-weltkulturen/",
+      "topics": [
+        "Public Lecture"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-08-05T08:43:30+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
+    },
+    {
+      "id": "calendar-museum-der-universitat-tubingen-mut-af727d67f9a0",
+      "title": "Sonntags um 3 - öffentliche Highlight-Führung",
+      "speaker": "",
+      "abstract": "Jeden Sonntag um 15 Uhr findet eine öffentliche Highlight-Führung durch das Museum Alte Kulturen auf Schloss Hohentübingen statt. Die…",
+      "sourceId": "calendar-museum-der-universitat-tubingen-mut",
+      "sourceName": "Museum der Universität Tübingen MUT",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/sonntags-um-3-oeffentliche-highlight-fuehrung-2/",
+      "start": "2026-09-06T15:00:00+02:00",
+      "end": "2026-09-06T16:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Museum Alte Kulturen, Schloss Hohentübingen, Burgsteige 11",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/sonntags-um-3-oeffentliche-highlight-fuehrung-2/",
+      "topics": [
+        "Public Lecture"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-08-05T08:43:30+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
+    },
+    {
+      "id": "calendar-museum-der-universitat-tubingen-mut-7a237d0aedcb",
+      "title": "Was bleibt. Evamarie Sanders Leben, Familie und Wissenschaft",
+      "speaker": "",
+      "abstract": "Führung Führung durch Studierende der Praxisseminare Zu ausgewählten Terminen bieten Studierende, die an den Praxisseminaren zum Ausstellungsprojekt und der…",
+      "sourceId": "calendar-museum-der-universitat-tubingen-mut",
+      "sourceName": "Museum der Universität Tübingen MUT",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/was-bleibt-evamarie-sanders-leben-familie-und-wissenschaft-5/",
+      "start": "2026-09-13T12:00:00+02:00",
+      "end": "2026-09-13T13:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Museum Alte Kulturen, Schloss Hohentübingen, Burgsteige 11",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/was-bleibt-evamarie-sanders-leben-familie-und-wissenschaft-5/",
+      "topics": [
+        "Public Lecture"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-08-05T08:43:30+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
+    },
+    {
+      "id": "calendar-museum-der-universitat-tubingen-mut-4892d4dffa21",
+      "title": "Sonntags um 3 - öffentliche Highlight-Führung",
+      "speaker": "",
+      "abstract": "Jeden Sonntag um 15 Uhr findet eine öffentliche Highlight-Führung durch das Museum Alte Kulturen auf Schloss Hohentübingen statt. Die…",
+      "sourceId": "calendar-museum-der-universitat-tubingen-mut",
+      "sourceName": "Museum der Universität Tübingen MUT",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/sonntags-um-3-oeffentliche-highlight-fuehrung-3/",
+      "start": "2026-09-13T15:00:00+02:00",
+      "end": "2026-09-13T16:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Museum Alte Kulturen, Schloss Hohentübingen, Burgsteige 11",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/sonntags-um-3-oeffentliche-highlight-fuehrung-3/",
+      "topics": [
+        "Public Lecture"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-08-05T08:43:31+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     },
     {
       "id": "calendar-wirtschafts-und-sozialwissenschaftliche-fakultat-ludwig-uhland-i-9fa263d29322",
@@ -206,8 +505,31 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:34+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:31+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
+    },
+    {
+      "id": "calendar-museum-der-universitat-tubingen-mut-067f518b86f8",
+      "title": "Was bleibt. Evamarie Sanders Leben, Familie und Wissenschaft",
+      "speaker": "",
+      "abstract": "Führung Führung durch Studierende der Praxisseminare Zu ausgewählten Terminen bieten Studierende, die an den Praxisseminaren zum Ausstellungsprojekt und der…",
+      "sourceId": "calendar-museum-der-universitat-tubingen-mut",
+      "sourceName": "Museum der Universität Tübingen MUT",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/was-bleibt-evamarie-sanders-leben-familie-und-wissenschaft-6/",
+      "start": "2026-09-24T16:00:00+02:00",
+      "end": "2026-09-24T17:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Museum Alte Kulturen, Schloss Hohentübingen, Burgsteige 11",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/was-bleibt-evamarie-sanders-leben-familie-und-wissenschaft-6/",
+      "topics": [
+        "Public Lecture"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-08-05T08:43:31+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     },
     {
       "id": "calendar-kulturreferat-der-universitat-tubingen-843388e0260a",
@@ -229,8 +551,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:34+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:31+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-090b4b73ab06",
@@ -252,8 +574,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:36+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:31+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     },
     {
       "id": "calendar-kulturreferat-der-universitat-tubingen-5c2ad34692ab",
@@ -275,8 +597,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:36+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:31+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-und-partner-22bebd9208a3",
@@ -298,8 +620,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:36+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:31+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     },
     {
       "id": "calendar-philosophische-fakultat-6037a43cc2d6",
@@ -321,8 +643,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:36+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:31+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     },
     {
       "id": "calendar-kulturreferat-der-universitat-tubingen-6a613022adc1",
@@ -344,8 +666,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:36+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:31+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     },
     {
       "id": "calendar-internationales-zentrum-fur-ethik-in-den-wissenschaften-izew-kom-4495a0356637",
@@ -367,8 +689,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:36+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:31+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     },
     {
       "id": "calendar-kulturreferat-der-universitat-tubingen-05821fac06aa",
@@ -390,8 +712,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:36+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:32+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     },
     {
       "id": "college-of-fellows-5776f821801b",
@@ -414,8 +736,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:36+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:32+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     },
     {
       "id": "calendar-kulturreferat-der-universitat-tubingen-fecdce5dd2c7",
@@ -437,8 +759,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:36+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:32+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     },
     {
       "id": "calendar-kulturreferat-der-universitat-tubingen-1a96394e642d",
@@ -460,8 +782,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:36+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:32+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     },
     {
       "id": "calendar-kulturreferat-der-universitat-tubingen-b8a4f552e87f",
@@ -483,8 +805,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:37+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:32+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     },
     {
       "id": "calendar-kulturreferat-der-universitat-tubingen-73237afa847f",
@@ -506,8 +828,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:37+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:32+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     },
     {
       "id": "calendar-kulturreferat-der-universitat-tubingen-d2d1535d3b9a",
@@ -529,8 +851,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:37+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:32+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     },
     {
       "id": "calendar-kulturreferat-der-universitat-tubingen-882da84bf81e",
@@ -552,8 +874,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:37+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:32+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-944bd955193e",
@@ -575,8 +897,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-08-04T08:42:37+02:00",
-      "updatedAt": "2026-08-04T08:42:47+02:00"
+      "scrapedAt": "2026-08-05T08:43:32+02:00",
+      "updatedAt": "2026-08-05T08:43:39+02:00"
     }
   ]
 }
