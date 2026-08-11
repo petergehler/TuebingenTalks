@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T07:45:50+02:00",
+  "generatedAt": "2026-08-11T07:29:55+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -317,6 +317,14 @@
     {
       "id": "calendar-ethnologische-sammlung-tubingen",
       "name": "Ethnologische Sammlung Tübingen",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-zentrale-studienberatung",
+      "name": "Zentrale Studienberatung",
       "type": "html",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "selectable": true,
