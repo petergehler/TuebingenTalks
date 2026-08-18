@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T07:00:25+02:00",
+  "generatedAt": "2026-08-18T06:54:23+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -325,6 +325,14 @@
     {
       "id": "calendar-zentrale-studienberatung",
       "name": "Zentrale Studienberatung",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-universitatsklinikum-tubingen-institut-fur-arbeitsmedizin-sozial",
+      "name": "Universitätsklinikum Tübingen, Institut für Arbeitsmedizin, Sozial- medizin und Versorgungsforschung",
       "type": "html",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "selectable": true,
