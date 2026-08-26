@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T06:56:11+02:00",
+  "generatedAt": "2026-08-26T06:57:37+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -333,6 +333,14 @@
     {
       "id": "calendar-universitatsklinikum-tubingen-institut-fur-arbeitsmedizin-sozial",
       "name": "Universitätsklinikum Tübingen, Institut für Arbeitsmedizin, Sozial- medizin und Versorgungsforschung",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-museum-der-universitat-tubingen-mut-ethnologische-sammlung",
+      "name": "Museum der Universität Tübingen MUT, Ethnologische Sammlung",
       "type": "html",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "selectable": true,
