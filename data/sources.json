@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T11:24:29+02:00",
+  "generatedAt": "2026-09-08T10:53:39+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -341,6 +341,14 @@
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-ethnologische-sammlung",
       "name": "Museum der Universität Tübingen MUT, Ethnologische Sammlung",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-botanischer-garten-der-universitat-tubingen",
+      "name": "Botanischer Garten der Universität Tübingen",
       "type": "html",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "selectable": true,
