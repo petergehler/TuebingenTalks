@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T11:19:46+02:00",
+  "generatedAt": "2026-09-17T11:28:55+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -349,6 +349,38 @@
     {
       "id": "calendar-botanischer-garten-der-universitat-tubingen",
       "name": "Botanischer Garten der Universität Tübingen",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-cluster-of-excellence-cmfi",
+      "name": "Cluster of Excellence CMFI",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-philosophische-fakultat-philosophisches-seminar",
+      "name": "Philosophische Fakultät, Philosophisches Seminar",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-zentrum-fur-frankophone-welten-zfw-deutsch-franzosisches-kulturi",
+      "name": "Zentrum für frankophone Welten (ZFW), Deutsch-Französisches Kulturinstitut",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-transdisciplinary-course-program",
+      "name": "Transdisciplinary Course Program",
       "type": "html",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "selectable": true,
