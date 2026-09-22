@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T11:59:09+02:00",
+  "generatedAt": "2026-09-22T11:20:03+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -381,6 +381,14 @@
     {
       "id": "calendar-transdisciplinary-course-program",
       "name": "Transdisciplinary Course Program",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-interfakultares-institut-fur-biochemie-prof-dr-hans-machleidt-an",
+      "name": "Interfakultäres Institut für Biochemie, Prof. Dr. Hans Machleidt and Dr. Sieglinde Göhring-Machleidt Foundation",
       "type": "html",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "selectable": true,
