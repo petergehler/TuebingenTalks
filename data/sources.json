@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T11:20:42+02:00",
+  "generatedAt": "2026-09-25T11:38:35+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -389,6 +389,14 @@
     {
       "id": "calendar-interfakultares-institut-fur-biochemie-prof-dr-hans-machleidt-an",
       "name": "Interfakultäres Institut für Biochemie, Prof. Dr. Hans Machleidt and Dr. Sieglinde Göhring-Machleidt Foundation",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-philosophische-fakultat-seminar-fur-zeitgeschichte",
+      "name": "Philosophische Fakultät, Seminar für Zeitgeschichte",
       "type": "html",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "selectable": true,
