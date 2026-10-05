@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T12:36:31+02:00",
+  "generatedAt": "2026-10-05T13:33:28+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -397,6 +397,14 @@
     {
       "id": "calendar-philosophische-fakultat-seminar-fur-zeitgeschichte",
       "name": "Philosophische Fakultät, Seminar für Zeitgeschichte",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-hochschulsport-universitat-tubingen",
+      "name": "Hochschulsport Universität Tübingen",
       "type": "html",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "selectable": true,
