@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T13:33:28+02:00",
+  "generatedAt": "2026-10-06T13:18:57+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -405,6 +405,30 @@
     {
       "id": "calendar-hochschulsport-universitat-tubingen",
       "name": "Hochschulsport Universität Tübingen",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-institut-fur-rechtsextremismusforschung-irex-studio-literatur-un",
+      "name": "Institut für Rechtsextremismusforschung (IRex), Studio Literatur und Theaer (SLT) in Kooperation mit dem LpB",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-institut-fur-rechtsextremismusforschung-irex",
+      "name": "Institut für Rechtsextremismusforschung (IREX)",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-mathematisch-naturwissenschaftliche-fakultat-dekanatsverwaltung",
+      "name": "Mathematisch-Naturwissenschaftliche Fakultät, Dekanatsverwaltung",
       "type": "html",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "selectable": true,
