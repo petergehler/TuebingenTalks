@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T14:04:11+02:00",
+  "generatedAt": "2026-10-13T13:51:46+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -461,6 +461,22 @@
     {
       "id": "calendar-katholisch-theologische-fakultat",
       "name": "Katholisch-Theologische Fakultät",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-philosophische-fakultat-slavisches-seminar",
+      "name": "Philosophische Fakultät, Slavisches Seminar",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-hochschulsport-studentisches-gesundheitsmanagement",
+      "name": "Hochschulsport, Studentisches Gesundheitsmanagement",
       "type": "html",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "selectable": true,
