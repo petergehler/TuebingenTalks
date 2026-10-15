@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T11:33:02+02:00",
+  "generatedAt": "2026-10-15T11:11:16+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -477,6 +477,14 @@
     {
       "id": "calendar-hochschulsport-studentisches-gesundheitsmanagement",
       "name": "Hochschulsport, Studentisches Gesundheitsmanagement",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-philosophische-fakultat-institut-fur-die-kulturen-des-alten-orie",
+      "name": "Philosophische Fakultät, Institut für die Kulturen des Alten Orients",
       "type": "html",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "selectable": true,
