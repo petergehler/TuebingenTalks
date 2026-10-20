@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T11:57:49+02:00",
+  "generatedAt": "2026-10-20T11:28:05+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -485,6 +485,30 @@
     {
       "id": "calendar-philosophische-fakultat-institut-fur-die-kulturen-des-alten-orie",
       "name": "Philosophische Fakultät, Institut für die Kulturen des Alten Orients",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-philosophische-fakultat-institut-fur-geschichtliche-landeskunde",
+      "name": "Philosophische Fakultät. Institut für Geschichtliche Landeskunde/Universitätsjubiläum",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-universitatsbibliothek",
+      "name": "Universitätsbibliothek",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-international-office",
+      "name": "International Office",
       "type": "html",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "selectable": true,
