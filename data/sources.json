@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T12:11:37+02:00",
+  "generatedAt": "2026-10-27T11:50:43+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -509,6 +509,46 @@
     {
       "id": "calendar-international-office",
       "name": "International Office",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-college-of-fellows-d-a-i",
+      "name": "College of Fellows & d.a.i.",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-universitat-tubingen-alumni-relations",
+      "name": "Universität Tübingen, Alumni Relations",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-philosophische-fakultat-kompetenzzentrum-fur-ost-sudost-und-mitt",
+      "name": "Philosophische Fakultät, Kompetenzzentrum für Ost-, Südost- und Mitteleuropa (KOSME)",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-universitat-tubingen-leibniz-institut-fur-wissensmedien",
+      "name": "Universität Tübingen, Leibniz-Institut für Wissensmedien",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-universitat-tubingen-college-of-fellows",
+      "name": "Universität Tübingen, College of Fellows",
       "type": "html",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "selectable": true,
