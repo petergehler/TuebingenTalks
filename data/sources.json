@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T11:50:43+02:00",
+  "generatedAt": "2026-10-28T12:37:27+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -549,6 +549,30 @@
     {
       "id": "calendar-universitat-tubingen-college-of-fellows",
       "name": "Universität Tübingen, College of Fellows",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-internationales-zentrum-fur-ethik-in-den-wissenschaften-izew-ins",
+      "name": "Internationales Zentrum für Ethik in den Wissenschaften (IZEW), Institut für Politikwissenschaft",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-universitat-tubingen-johannes-gutenberg-universitat-mainz-univer",
+      "name": "Universität Tübingen, Johannes Gutenberg-Universität Mainz & Universität Marburg",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-sfb-1391-andere-asthetik-an-der-universitat-tubingen",
+      "name": "SFB 1391 Andere Ästhetik an der Universität Tübingen",
       "type": "html",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "selectable": true,
