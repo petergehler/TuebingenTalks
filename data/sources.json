@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T12:37:27+02:00",
+  "generatedAt": "2026-10-29T12:55:20+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -573,6 +573,14 @@
     {
       "id": "calendar-sfb-1391-andere-asthetik-an-der-universitat-tubingen",
       "name": "SFB 1391 Andere Ästhetik an der Universität Tübingen",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-juristische-fakultat-institut-fur-kriminologie",
+      "name": "Juristische Fakultät, Institut für Kriminologie",
       "type": "html",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "selectable": true,
