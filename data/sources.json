@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T13:18:06+02:00",
+  "generatedAt": "2026-11-02T14:30:07+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -581,6 +581,14 @@
     {
       "id": "calendar-juristische-fakultat-institut-fur-kriminologie",
       "name": "Juristische Fakultät, Institut für Kriminologie",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-tubinger-forum-fur-wissenschaftskulturen-tfw-carl-friedrich-von",
+      "name": "Tübinger Forum für Wissenschaftskulturen (TFW) & Carl Friedrich von Weizsäcker Zentrum (CFvWZ)",
       "type": "html",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "selectable": true,
