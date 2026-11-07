@@ -1,352 +1,7 @@
 {
-  "version": "2026-11-06T14:10:09+02:00",
-  "generatedAt": "2026-11-06T14:10:09+02:00",
+  "version": "2026-11-07T13:06:52+02:00",
+  "generatedAt": "2026-11-07T13:06:52+02:00",
   "events": [
-    {
-      "id": "calendar-universitat-tubingen-college-of-fellows-8057d86290e2",
-      "title": "The Value of Academic Freedom- International Perspectives from Tübingen's College of Fellows",
-      "speaker": "Dr. Ayushi Verma, Dr. Cary Aileen García Yero, Dr. Polina Iamshchinina, Dr. Sophia Johnson, PD Dr. Niels Weidtmann",
-      "abstract": "Science & Innovation Days 2026 Together with international research fellows from our fellowship programs, including the new BW Early Career Research Fellowship program, we will…",
-      "sourceId": "calendar-universitat-tubingen-college-of-fellows",
-      "sourceName": "Universität Tübingen, College of Fellows",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/the-value-of-academic-freedom-international-perspectives-from-tuebingens-college-of-fellows/",
-      "start": "2026-11-06T15:00:00+02:00",
-      "end": "2026-11-06T16:45:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Alte Aula, Münzgasse 30",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/the-value-of-academic-freedom-international-perspectives-from-tuebingens-college-of-fellows/",
-      "topics": [
-        "AI & ML"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:00+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
-    },
-    {
-      "id": "college-of-fellows-879312e8445e",
-      "title": "\"The Value of Academic Freedom\" Roundtable mit internationalen Perspektiven von CoF Fellows",
-      "speaker": "",
-      "abstract": "",
-      "sourceId": "college-of-fellows",
-      "sourceName": "College of Fellows",
-      "sourceUrl": "https://uni-tuebingen.de/forschung/zentren-und-institute/college-of-fellows/events/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/the-value-of-academic-freedom-roundtable-mit-internationalen-perspektiven-von-cof-fellows/",
-      "start": "2026-11-06T15:00:00+02:00",
-      "end": "2026-11-06T16:00:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Alte Aula, Münzgasse 30",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/the-value-of-academic-freedom-roundtable-mit-internationalen-perspektiven-von-cof-fellows/",
-      "topics": [
-        "Public Lecture"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:01+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
-    },
-    {
-      "id": "calendar-universitat-tubingen-26274fb2eeb9",
-      "title": "Wissenschaftsfreiheit in Gefahr? Die Rollen von Universität, Politik und Gesellschaft",
-      "speaker": "Prof. Heike Radvan, Prof. Olaf Kramer, Jacob Bühler, Prof. Stefan Huber, Prof. Ghazaleh Tabatabai, Prof. Karin Amos",
-      "abstract": "Science & Innovation Days 2026 Welche Rolle Wissenschaft und Universitäten in der heutigen Gesellschaft spielen, ist eine zentrale Frage unserer Zeit. Die Entwicklungen rund um…",
-      "sourceId": "calendar-universitat-tubingen",
-      "sourceName": "Universität Tübingen",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/wissenschaftsfreiheit-in-gefahr-die-rollen-von-universitaet-politik-und-gesellschaft/",
-      "start": "2026-11-06T17:00:00+02:00",
-      "end": "2026-11-06T18:30:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Neckawa, Wöhrdstraße 25",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/wissenschaftsfreiheit-in-gefahr-die-rollen-von-universitaet-politik-und-gesellschaft/",
-      "topics": [
-        "AI & ML"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:01+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
-    },
-    {
-      "id": "calendar-philosophische-fakultat-6037a43cc2d6",
-      "title": "Examensfeier für Absolvent:innen des Sommersemesters 2026 (Fachbereich 4 und 5)",
-      "speaker": "",
-      "abstract": "Alle Absolventinnen und Absolventen des Sommersemesters 2026 sind herzlich (gerne mit Familie, 2-3 Personen) zur Examensfeier eingeladen! Nach…",
-      "sourceId": "calendar-philosophische-fakultat",
-      "sourceName": "Philosophische Fakultät",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/examensfeier-fuer-absolventinnen-des-sommersemesters-2026-fachbereich-4-und-5/",
-      "start": "2026-11-06T17:15:00+02:00",
-      "end": "2026-11-06T18:15:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Audimax, Neue Aula, Geschwister-Scholl-Platz",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/examensfeier-fuer-absolventinnen-des-sommersemesters-2026-fachbereich-4-und-5/",
-      "topics": [
-        "Public Lecture"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-09-24T11:20:31+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
-    },
-    {
-      "id": "calendar-philosophische-fakultat-3f95a162236c",
-      "title": "Examensfeier für Absolvent:innen des Sommersemesters 2026",
-      "speaker": "",
-      "abstract": "Fachbereich 4 und 5 Alle Absolventinnen und Absolventen des Sommersemesters 2026 sind herzlich (gerne mit Familie, 2-3 Personen) zur Examensfeier eingeladen! Nach…",
-      "sourceId": "calendar-philosophische-fakultat",
-      "sourceName": "Philosophische Fakultät",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/examensfeier-fuer-absolventinnen-des-sommersemesters-2026/",
-      "start": "2026-11-06T17:15:00+02:00",
-      "end": "2026-11-06T18:15:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Audimax, Neue Aula, Geschwister-Scholl-Platz",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/examensfeier-fuer-absolventinnen-des-sommersemesters-2026/",
-      "topics": [
-        "Public Lecture"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:01+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
-    },
-    {
-      "id": "calendar-ethnologische-sammlung-tubingen-b7e28d485920",
-      "title": "Vernissage „Behind the Walls of the Museum“",
-      "speaker": "",
-      "abstract": "„Missing Connections, Reimagined Collections“ Im Rahmen der Tübinger Science & Innovation Days eröffnet am 6. November 2026, um 18 Uhr , im Museum…",
-      "sourceId": "calendar-ethnologische-sammlung-tubingen",
-      "sourceName": "Ethnologische Sammlung Tübingen",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/vernissage-behind-the-walls-of-the-museum/",
-      "start": "2026-11-06T18:00:00+02:00",
-      "end": "2026-11-06T20:00:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "MUT, Schloss Hohentübingen, Burgsteige 11",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/vernissage-behind-the-walls-of-the-museum/",
-      "topics": [
-        "Public Lecture"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:01+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
-    },
-    {
-      "id": "calendar-philosophische-fakultat-slavisches-seminar-institut-fur-osteurop-57cbac82bd48",
-      "title": "Im Schatten der Diktatur",
-      "speaker": "Dr. Natalia Borisova",
-      "abstract": "Filmvorführung Filmvorführung von „Recht auf Erinnerung. Nachkriegsschicksal der Wittenberger Schülergruppe“ und Diskussion mit Mario Bandi (Regie), Dr. Anke Giesen…",
-      "sourceId": "calendar-philosophische-fakultat-slavisches-seminar-institut-fur-osteurop",
-      "sourceName": "Philosophische Fakultät, Slavisches Seminar, Institut für osteuropäische Geschichte und Landeskunde, Kompetenzzentrum für Ost-, Südost- und Mitteleuropa (KOSME) (in Kooperation mit dem Universitätsbund e.V. und der Heinrich Böll Stiftung Baden-Württemberg",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/im-schatten-der-diktatur-1/",
-      "start": "2026-11-06T18:00:00+02:00",
-      "end": "2026-11-06T19:00:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Hörsaal 037, Brechtbau, Wilhelmstr. 50",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/im-schatten-der-diktatur-1/",
-      "topics": [
-        "Public Lecture"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:01+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
-    },
-    {
-      "id": "calendar-universitat-tubingen-2fe79ff2f3c2",
-      "title": "KI macht Forschung wertvoller - Wie stille Algorithmen Wissenschaft beschleunigen",
-      "speaker": "Dr. Nico Ehrhardt, Leibniz-institut für Wissensmedien (IWM)",
-      "abstract": "Science & Innovation Days 2026 Wenn über künstliche Intelligenz (KI) gesprochen wird, geht es meist um große Sprachmodelle. Dabei wirken viele der wissenschaftlich spannendsten…",
-      "sourceId": "calendar-universitat-tubingen",
-      "sourceName": "Universität Tübingen",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/ki-macht-forschung-wertvoller-wie-stille-algorithmen-wissenschaft-beschleunigen/",
-      "start": "2026-11-06T18:30:00+02:00",
-      "end": "2026-11-06T20:00:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Alte Aula, Münzgasse 30",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/ki-macht-forschung-wertvoller-wie-stille-algorithmen-wissenschaft-beschleunigen/",
-      "topics": [
-        "Public Lecture"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:01+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
-    },
-    {
-      "id": "calendar-universitatsbibliothek-4bc75592a726",
-      "title": "Gespenstertee mit Taschenlampenführungen in der Unibibliothek",
-      "speaker": "Saskia Hallmann-Willner, Ulrike Mehringer, Michelle Schmuck",
-      "abstract": "Lesung und Führungen Dreimal schwarzer Kater Tauchen Sie mit uns ein in gruselige Geschichten aus den Tiefen unseres Büchermagazins. Am 6. November 2026 lädt die…",
-      "sourceId": "calendar-universitatsbibliothek",
-      "sourceName": "Universitätsbibliothek",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/gespenstertee-mit-taschenlampenfuehrungen-in-der-unibibliothek/",
-      "start": "2026-11-06T19:00:00+02:00",
-      "end": "2026-11-06T20:00:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Schulungsraum, Bonatzbau, Wilhelmstr. 32",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/gespenstertee-mit-taschenlampenfuehrungen-in-der-unibibliothek/",
-      "topics": [
-        "AI & ML"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:01+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
-    },
-    {
-      "id": "calendar-universitat-tubingen-28855c37d8b1",
-      "title": "Myth Busting mit Doktor Whatson- Die Ursprünge der Menschheit",
-      "speaker": "Prof. Johannes Krause, Dr. Leonie Bossert, Cedric Engels (Doktor Whatson)",
-      "abstract": "Science & Innovation Days 2026 Was können wir aus den Genen unserer Vorfahren über die Menschheitsgeschichte erfahren – und was ist mit modernen Methoden heute möglich? Zwischen…",
-      "sourceId": "calendar-universitat-tubingen",
-      "sourceName": "Universität Tübingen",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/myth-busting-mit-doktor-whatson-die-urspruenge-der-menschheit/",
-      "start": "2026-11-06T19:30:00+02:00",
-      "end": "2026-11-06T21:00:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Neckawa, Wöhrdstraße 25",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/myth-busting-mit-doktor-whatson-die-urspruenge-der-menschheit/",
-      "topics": [
-        "Public Lecture"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:01+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
-    },
-    {
-      "id": "calendar-universitat-tubingen-197ab3c41354",
-      "title": "Wie frauenfeindlich ist die Literaturgeschichte? Von Lavinia zu Leia",
-      "speaker": "Angelika Frescher-Molitor, Deutsches Seminar",
-      "abstract": "Science & Innovation Days 2026 Ist die Literaturgeschichte reine Männersache? Lange spielten Frauen nur Nebenrollen – bis das Mittelalter die Liebe entdeckte und die Frau als Love…",
-      "sourceId": "calendar-universitat-tubingen",
-      "sourceName": "Universität Tübingen",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/wie-frauenfeindlich-ist-die-literaturgeschichte-von-lavinia-zu-leia/",
-      "start": "2026-11-07T10:00:00+02:00",
-      "end": "2026-11-07T11:30:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Seminarraum 605, Alte Aula, Münzgasse 30",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/wie-frauenfeindlich-ist-die-literaturgeschichte-von-lavinia-zu-leia/",
-      "topics": [
-        "Public Lecture"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:01+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
-    },
-    {
-      "id": "calendar-universitat-tubingen-48e1cea34eb2",
-      "title": "Brunch. Jazz. Wissenschaft. Der Wissenschaftssalon der Science & Innovation Days",
-      "speaker": "Moderatorin: Dr. Franziska Hammer",
-      "abstract": "Science & Innovation Days 2026 Entspannt brunchen, Jazz genießen und dabei den Einblicken hinter die Kulissen lauschen. Ein Samstagvormittag zum Hören, Mitreden, Weiterdenken – mit…",
-      "sourceId": "calendar-universitat-tubingen",
-      "sourceName": "Universität Tübingen",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/brunch-jazz-wissenschaft-der-wissenschaftssalon-der-science-innovation-days/",
-      "start": "2026-11-07T10:00:00+02:00",
-      "end": "2026-11-07T11:30:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Taproom, Neckawa, Wöhrdstraße 25",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/brunch-jazz-wissenschaft-der-wissenschaftssalon-der-science-innovation-days/",
-      "topics": [
-        "Public Lecture"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:01+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
-    },
-    {
-      "id": "calendar-universitat-tubingen-ac36c369d54c",
-      "title": "Open Seat. Platz für Fragen",
-      "speaker": "",
-      "abstract": "Science & Innovation Days 2026 „Open Seat“ lädt Besucherinnen und Besucher der Science Fair dazu ein, spontan Platz zu nehmen und mit Forschenden und anderen Universitätsangehörigen…",
-      "sourceId": "calendar-universitat-tubingen",
-      "sourceName": "Universität Tübingen",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/open-seat-platz-fuer-fragen-1/",
-      "start": "2026-11-07T12:00:00+02:00",
-      "end": "2026-11-07T15:00:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Science Fair, Neckawa, Wöhrdstraße 25",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/open-seat-platz-fuer-fragen-1/",
-      "topics": [
-        "AI & ML"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:02+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
-    },
-    {
-      "id": "calendar-museum-der-universitat-tubingen-mut-86a46fdcb856",
-      "title": "Färben mit Pflanzen",
-      "speaker": "",
-      "abstract": "Der Färbekurs mit Bettina und Marcus Král vermittelt Grundkenntnisse zum Färben mit natürlichen Mitteln. Anfängerkurs Färben mit natürlichen Mitteln.…",
-      "sourceId": "calendar-museum-der-universitat-tubingen-mut",
-      "sourceName": "Museum der Universität Tübingen MUT",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/faerben-mit-pflanzen/",
-      "start": "2026-11-07T12:00:00+02:00",
-      "end": "2026-11-07T16:00:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Museum Alte Kulturen, Schloss Hohentübingen, Burgsteige 11",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/faerben-mit-pflanzen/",
-      "topics": [
-        "Public Lecture"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:02+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
-    },
-    {
-      "id": "calendar-universitat-tubingen-5aeca4865e0a",
-      "title": "RICHTIG BEEF zu „Gerecht Sparen – aber wie?“- Kommunale Haushalte zwischen Konsolidierung und Zukunftsgestaltung",
-      "speaker": "Prof. Uwe Schneidewind, Stefanie Bürkle, Dr. Yannick Bury, Moderation: Geli Hensolt, SWR",
-      "abstract": "Science & Innovation Days 2026 Kommunen und Landkreise in Deutschland stehen unter finanziellem Druck: steigende Ausgaben, sinkende Einnahmen und jahrelang aufgeschobene…",
-      "sourceId": "calendar-universitat-tubingen",
-      "sourceName": "Universität Tübingen",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/richtig-beef-zu-gerecht-sparen-aber-wie-kommunale-haushalte-zwischen-konsolidierung-und-zukunftsgestaltung/",
-      "start": "2026-11-07T13:00:00+02:00",
-      "end": "2026-11-07T14:30:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Hauptbühne, Neckawa, Wöhrdstraße 25",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/richtig-beef-zu-gerecht-sparen-aber-wie-kommunale-haushalte-zwischen-konsolidierung-und-zukunftsgestaltung/",
-      "topics": [
-        "Public Lecture"
-      ],
-      "hostLogo": "assets/source-logos/university-tuebingen.svg",
-      "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:02+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
-    },
     {
       "id": "calendar-universitat-tubingen-8c727507ded9",
       "title": "Mind & Shape- Offenes Mathe-Mitmachangebot mit Hands-On-Aktivitäten und Rätseln",
@@ -367,8 +22,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:02+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:43+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-6499ace93908",
@@ -390,8 +45,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:02+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:43+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-a230ae607156",
@@ -413,8 +68,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:02+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:43+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-875c57df5aa0",
@@ -436,8 +91,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:02+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:44+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-ab9a6c2095b0",
@@ -459,8 +114,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:02+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:44+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-botanischer-garten-der-universitat-tubingen-bbe65e80f79e",
@@ -482,8 +137,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:02+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:44+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-a1e7d79306fb",
@@ -505,8 +160,8 @@
       ],
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:02+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:44+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-juristische-fakultat-institut-fur-kriminologie-0d214f51f0f1",
@@ -528,8 +183,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:03+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:44+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-tubinger-forum-fur-wissenschaftskulturen-tfw-carl-friedrich-von-e2f5b95b70a5",
@@ -551,8 +206,32 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:03+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:44+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
+    },
+    {
+      "id": "imported-talks-10b48155bfbc",
+      "title": "The Cunning of Manipulation: Conversational AI and Human Autonomy",
+      "speaker": "Laura Lacovissi",
+      "abstract": "The EU AI Act prohibits deploying AI systems that manipulate users to their significant detriment, but offers no operational way to detect when this condition is met. I give an account of influence and manipulation that, while aligning with concepts mentioned in the Act, underlines that it can be hard to implement and apply as it is. However, I regard protecting human autonomy to be key in human-AI interaction. Building on a relational account of personal autonomy and narrative psychology, I argue that manipulative actions performed by AI systems are an important site of harm when such systems can access the identity formation process necessary for autonomous personhood. This harm is therefore most acute for conversational AI systems, which can shape users’ narratives through conversation in ways that resist reflective endorsement. This is work in progress.",
+      "sourceId": "imported-talks",
+      "sourceName": "Imported talks",
+      "sourceUrl": "https://talks.tuebingen.ai/talks",
+      "eventUrl": "https://talks.tuebingen.ai/talks/talk/id=1012",
+      "start": "2026-11-10T14:00:00+02:00",
+      "end": "2026-11-10T15:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Maria-von-Linden str. 6, 4th Floor Seminar Room",
+      "registrationRequired": false,
+      "registrationUrl": "",
+      "topics": [
+        "AI & ML",
+        "Cognitive Science"
+      ],
+      "hostLogo": "assets/icon.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-11-07T13:06:52+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "imported-talks-a05e23e17c17",
@@ -574,8 +253,8 @@
       ],
       "hostLogo": "assets/icon.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:09+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:52+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-tubinger-forum-fur-wissenschaftskulturen-tfw-carl-friedrich-von-513dd4ab4d49",
@@ -597,8 +276,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:03+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:44+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-12841dcee551",
@@ -620,8 +299,8 @@
       ],
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:03+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:44+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-d4d18f94ebc9",
@@ -643,8 +322,8 @@
       ],
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:03+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:44+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-69c1352864a8",
@@ -666,8 +345,8 @@
       ],
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:03+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:44+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "college-of-fellows-14cc2592e356",
@@ -689,8 +368,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:03+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:46+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-katholisch-theologische-fakultat-b251ec61fcc1",
@@ -712,8 +391,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:03+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:46+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-katholisch-theologische-fakultat-2edea847bba1",
@@ -735,8 +414,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:03+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:46+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "college-of-fellows-5a0350447a5a",
@@ -759,8 +438,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:03+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:46+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "imported-talks-a8aa213422d6",
@@ -782,8 +461,8 @@
       ],
       "hostLogo": "assets/icon.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:09+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:52+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-ade9567e9301",
@@ -805,8 +484,8 @@
       ],
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:05+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:46+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-kulturreferat-der-universitat-tubingen-6a613022adc1",
@@ -828,8 +507,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:05+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:46+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "college-of-fellows-35766913b399",
@@ -852,8 +531,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:05+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:46+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-fcea3b608564",
@@ -875,8 +554,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:05+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:46+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-99a494f5ef45",
@@ -898,8 +577,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:05+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:46+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-46f771ba115f",
@@ -921,8 +600,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:05+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:46+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-philosophische-fakultat-eff8a4c8de65",
@@ -944,8 +623,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:05+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:47+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-e29103d4140d",
@@ -967,8 +646,8 @@
       ],
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:05+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:47+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-johannes-gutenberg-universitat-mainz-univer-5bda021a54c0",
@@ -990,8 +669,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:05+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:47+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-katholisch-theologische-fakultat-2ca33f763e42",
@@ -1013,8 +692,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:05+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:47+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "imported-talks-c5bc7379d367",
@@ -1036,8 +715,8 @@
       ],
       "hostLogo": "assets/icon.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:09+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:52+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-sfb-1391-andere-asthetik-an-der-universitat-tubingen-8033e662c1a0",
@@ -1059,8 +738,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:06+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:47+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-6d20d8933574",
@@ -1083,7 +762,7 @@
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
       "scrapedAt": "2026-11-04T14:12:34+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-33f37836c42a",
@@ -1105,8 +784,8 @@
       ],
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:06+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:47+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-d454011a65c4",
@@ -1128,8 +807,8 @@
       ],
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:06+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:47+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-zentrale-studienberatung-bf7ea3cdb9db",
@@ -1151,8 +830,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:06+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:47+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-philosophische-fakultat-institut-fur-die-kulturen-des-alten-orie-6caa11c7d3c1",
@@ -1174,8 +853,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:06+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:47+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-fac79912d14c",
@@ -1197,8 +876,8 @@
       ],
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:06+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:47+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-08e49baa543d",
@@ -1220,8 +899,8 @@
       ],
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:06+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:48+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-dd8ba11fd516",
@@ -1243,8 +922,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:06+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:48+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-f43605979925",
@@ -1266,8 +945,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:06+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:48+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-hochschulsport-studentisches-gesundheitsmanagement-ffc28ac7042a",
@@ -1289,8 +968,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:06+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:48+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-international-office-1894b6356299",
@@ -1312,8 +991,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:07+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:48+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-7beaf9f073f3",
@@ -1335,8 +1014,8 @@
       ],
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:07+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:48+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-juristische-fakultat-institut-fur-kriminologie-8633195e1a85",
@@ -1358,8 +1037,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:07+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:48+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-internationales-zentrum-fur-ethik-in-den-wissenschaften-izew-kom-4495a0356637",
@@ -1381,8 +1060,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:07+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:48+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-9fbecee4c92c",
@@ -1404,8 +1083,8 @@
       ],
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:07+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:48+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-philosophische-fakultat-institut-fur-die-kulturen-des-alten-orie-ab8d891b79ed",
@@ -1427,8 +1106,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:07+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:48+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-d2173d1f9089",
@@ -1450,8 +1129,8 @@
       ],
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:07+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:49+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-katholisch-theologische-fakultat-bae2d6516e68",
@@ -1473,8 +1152,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:07+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:49+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-3489192c15d9",
@@ -1496,8 +1175,8 @@
       ],
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:07+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:49+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-museum-der-universitat-tubingen-mut-3608f7c919ae",
@@ -1519,11 +1198,34 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:07+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:49+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
-      "id": "studium-generale-5c320e859320",
+      "id": "calendar-museum-der-universitat-tubingen-mut-74840e6fdb11",
+      "title": "Sonntags um 3 - öffentliche Highlight-Führung",
+      "speaker": "",
+      "abstract": "Jeden Sonntag um 15 Uhr findet eine öffentliche Highlight-Führung durch das Museum Alte Kulturen auf Schloss Hohentübingen statt. Die…",
+      "sourceId": "calendar-museum-der-universitat-tubingen-mut",
+      "sourceName": "Museum der Universität Tübingen MUT",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/sonntags-um-3-oeffentliche-highlight-fuehrung-10/",
+      "start": "2026-11-29T15:00:00+02:00",
+      "end": "2026-11-29T16:00:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Museum Alte Kulturen, Schloss Hohentübingen, Burgsteige 11",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/sonntags-um-3-oeffentliche-highlight-fuehrung-10/",
+      "topics": [
+        "Public Lecture"
+      ],
+      "hostLogo": "assets/source-logos/university-tuebingen.svg",
+      "imageUrl": "",
+      "scrapedAt": "2026-11-07T13:06:49+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
+    },
+    {
+      "id": "studium-generale-b6b775e53004",
       "title": "Provenienzforschung als \"Selbstzweck\" für westliche Museen? Zur Notwendigkeit eines gegenseitigen Nutzens",
       "speaker": "Richard Tsogang Fossi, Technische Universität Berlin",
       "abstract": "Kulturelles Erbe im Wandel: Provenienz, Restitution und gesellschaftliche Verantwortung Zoom-Link: https://zoom.us/j/95977375594?pwd=EU3V0mmBCvMBHxaHo7vLzxTkxxuaYJ.1",
@@ -1534,7 +1236,7 @@
       "start": "2026-11-30T18:15:00+02:00",
       "end": "2026-11-30T19:15:00+02:00",
       "timezone": "Europe/Berlin",
-      "location": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+      "location": "Hörsaal 21, Kupferbau, Hölderlinstr. 5",
       "registrationRequired": false,
       "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/provenienzforschung-als-selbstzweck-fuer-westliche-museen-zur-notwendigkeit-eines-gegenseitigen-nutzens/",
       "topics": [
@@ -1542,8 +1244,8 @@
       ],
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
-      "scrapedAt": "2026-10-26T12:11:31+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:49+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-kulturreferat-der-universitat-tubingen-05821fac06aa",
@@ -1565,8 +1267,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-10-26T12:11:35+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:49+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "imported-talks-0b614e45b69c",
@@ -1588,31 +1290,8 @@
       ],
       "hostLogo": "assets/icon.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:09+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
-    },
-    {
-      "id": "studium-generale-8cb2ec55ed95",
-      "title": "Natur wertschätzen – Von und mit tansanischen Kleinbäuerinnen und -bauern lernen",
-      "speaker": "Kerstin Schopp, Kompetenzzentrum für Nachhaltige Entwicklung (KNE) und IZEW, Universität Tübingen",
-      "abstract": "Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachhaltige Entwicklung",
-      "sourceId": "studium-generale",
-      "sourceName": "Studium Generale",
-      "sourceUrl": "https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/",
-      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/natur-wertschaetzen-von-und-mit-tansanischen-kleinbaeuerinnen-und-bauern-lernen/",
-      "start": "2026-12-01T18:15:00+02:00",
-      "end": "2026-12-01T19:15:00+02:00",
-      "timezone": "Europe/Berlin",
-      "location": "Hörsaal 21, Kupferbau, Hölderlinstr. 5",
-      "registrationRequired": false,
-      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/natur-wertschaetzen-von-und-mit-tansanischen-kleinbaeuerinnen-und-bauern-lernen/",
-      "topics": [
-        "Public Lecture"
-      ],
-      "hostLogo": "assets/source-logos/studium-generale.webp",
-      "imageUrl": "",
-      "scrapedAt": "2026-10-26T12:11:35+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:52+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-f8c58b196427",
@@ -1635,7 +1314,53 @@
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
       "scrapedAt": "2026-10-26T12:11:35+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "updatedAt": "2026-11-07T13:06:52+02:00"
+    },
+    {
+      "id": "studium-generale-8cb2ec55ed95",
+      "title": "Natur wertschätzen – Von und mit tansanischen Kleinbäuerinnen und -bauern lernen",
+      "speaker": "Kerstin Schopp, Kompetenzzentrum für Nachhaltige Entwicklung (KNE) und IZEW, Universität Tübingen",
+      "abstract": "Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachhaltige Entwicklung",
+      "sourceId": "studium-generale",
+      "sourceName": "Studium Generale",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/natur-wertschaetzen-von-und-mit-tansanischen-kleinbaeuerinnen-und-bauern-lernen/",
+      "start": "2026-12-01T18:15:00+02:00",
+      "end": "2026-12-01T19:15:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Hörsaal 21, Kupferbau, Hölderlinstr. 5",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/natur-wertschaetzen-von-und-mit-tansanischen-kleinbaeuerinnen-und-bauern-lernen/",
+      "topics": [
+        "Public Lecture"
+      ],
+      "hostLogo": "assets/source-logos/studium-generale.webp",
+      "imageUrl": "",
+      "scrapedAt": "2026-11-07T13:06:49+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
+    },
+    {
+      "id": "studium-generale-6db3e958e375",
+      "title": "Rechtsextremismus, Ethnisierung, Religion",
+      "speaker": "Prof. Dr. Fabian Virchow, IRex, Universität Tübingen",
+      "abstract": "Rechtsextremismus und Religionen",
+      "sourceId": "studium-generale",
+      "sourceName": "Studium Generale",
+      "sourceUrl": "https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/",
+      "eventUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/rechtsextremismus-ethnisierung-religion/",
+      "start": "2026-12-01T18:15:00+02:00",
+      "end": "2026-12-01T19:15:00+02:00",
+      "timezone": "Europe/Berlin",
+      "location": "Hörsaal 25, Kupferbau, Hölderlinstr. 5, und Aufzeichnung",
+      "registrationRequired": false,
+      "registrationUrl": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/rechtsextremismus-ethnisierung-religion/",
+      "topics": [
+        "Public Lecture"
+      ],
+      "hostLogo": "assets/source-logos/studium-generale.webp",
+      "imageUrl": "",
+      "scrapedAt": "2026-11-07T13:06:49+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-philosophische-fakultat-institut-fur-die-kulturen-des-alten-orie-ff254f4a6785",
@@ -1657,8 +1382,8 @@
       ],
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-10-26T12:11:35+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:49+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-d0eebf7a1d8b",
@@ -1681,7 +1406,7 @@
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
       "scrapedAt": "2026-10-26T12:11:35+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-katholisch-theologische-fakultat-784deb7271e0",
@@ -1704,7 +1429,7 @@
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-10-26T12:11:35+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-e8c29990a406",
@@ -1727,7 +1452,7 @@
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
       "scrapedAt": "2026-10-26T12:11:35+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-interfakultares-institut-fur-biochemie-prof-dr-hans-machleidt-an-b14c850f30c5",
@@ -1750,7 +1475,7 @@
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-10-26T12:11:35+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-b074c2050ff5",
@@ -1773,7 +1498,7 @@
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
       "scrapedAt": "2026-10-26T12:11:35+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "imported-talks-d6f126b5ef61",
@@ -1795,8 +1520,8 @@
       ],
       "hostLogo": "assets/icon.svg",
       "imageUrl": "",
-      "scrapedAt": "2026-11-06T14:10:09+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "scrapedAt": "2026-11-07T13:06:52+02:00",
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-fea1785d3f70",
@@ -1819,7 +1544,7 @@
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
       "scrapedAt": "2026-10-19T11:57:46+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-9c820fe85ff3",
@@ -1842,7 +1567,7 @@
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
       "scrapedAt": "2026-10-26T12:11:35+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-philosophische-fakultat-institut-fur-die-kulturen-des-alten-orie-5ebdb0f24630",
@@ -1865,7 +1590,7 @@
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-10-19T11:57:46+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-74f6fcef82d5",
@@ -1888,7 +1613,7 @@
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
       "scrapedAt": "2026-10-19T11:57:46+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "college-of-fellows-5776f821801b",
@@ -1912,7 +1637,7 @@
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-10-12T14:04:08+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-c596150d0982",
@@ -1935,7 +1660,7 @@
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
       "scrapedAt": "2026-10-11T12:51:21+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-e758492955e7",
@@ -1958,7 +1683,7 @@
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
       "scrapedAt": "2026-10-11T12:51:21+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-kulturreferat-der-universitat-tubingen-fecdce5dd2c7",
@@ -1981,7 +1706,7 @@
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-10-11T12:51:21+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-d5d93adb9859",
@@ -2004,7 +1729,7 @@
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
       "scrapedAt": "2026-10-05T13:33:24+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-5a9492556605",
@@ -2028,7 +1753,7 @@
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
       "scrapedAt": "2026-10-05T13:33:24+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "studium-generale-fa0d628ded8d",
@@ -2051,7 +1776,7 @@
       "hostLogo": "assets/source-logos/studium-generale.webp",
       "imageUrl": "",
       "scrapedAt": "2026-10-05T13:33:24+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-kulturreferat-der-universitat-tubingen-1a96394e642d",
@@ -2074,7 +1799,7 @@
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-09-18T11:01:46+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-kulturreferat-der-universitat-tubingen-b8a4f552e87f",
@@ -2097,7 +1822,7 @@
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-09-18T11:01:46+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-kulturreferat-der-universitat-tubingen-73237afa847f",
@@ -2120,7 +1845,7 @@
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-09-18T11:01:46+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-kulturreferat-der-universitat-tubingen-d2d1535d3b9a",
@@ -2143,7 +1868,7 @@
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-09-18T11:01:46+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-kulturreferat-der-universitat-tubingen-882da84bf81e",
@@ -2166,7 +1891,7 @@
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-09-18T11:01:46+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     },
     {
       "id": "calendar-universitat-tubingen-944bd955193e",
@@ -2189,7 +1914,7 @@
       "hostLogo": "assets/source-logos/university-tuebingen.svg",
       "imageUrl": "",
       "scrapedAt": "2026-09-18T11:01:46+02:00",
-      "updatedAt": "2026-11-06T14:10:09+02:00"
+      "updatedAt": "2026-11-07T13:06:52+02:00"
     }
   ]
 }
