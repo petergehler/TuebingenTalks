@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T13:06:52+02:00",
+  "generatedAt": "2026-11-08T13:18:54+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -597,6 +597,14 @@
     {
       "id": "calendar-philosophische-fakultat-slavisches-seminar-institut-fur-osteurop",
       "name": "Philosophische Fakultät, Slavisches Seminar, Institut für osteuropäische Geschichte und Landeskunde, Kompetenzzentrum für Ost-, Südost- und Mitteleuropa (KOSME) (in Kooperation mit dem Universitätsbund e.V. und der Heinrich Böll Stiftung Baden-Württemberg",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-institut-fur-klassische-archaologie-seminar-fur-alte-geschichte",
+      "name": "Institut für Klassische Archäologie, Seminar für Alte Geschichte und der Sonderforschungsbereich 1391 „Andere Ästhetik“",
       "type": "html",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "selectable": true,
