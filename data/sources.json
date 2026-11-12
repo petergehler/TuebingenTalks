@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T13:54:45+02:00",
+  "generatedAt": "2026-11-12T14:47:57+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -605,6 +605,14 @@
     {
       "id": "calendar-institut-fur-klassische-archaologie-seminar-fur-alte-geschichte",
       "name": "Institut für Klassische Archäologie, Seminar für Alte Geschichte und der Sonderforschungsbereich 1391 „Andere Ästhetik“",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-uni-big-band",
+      "name": "Uni Big Band",
       "type": "html",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "selectable": true,
