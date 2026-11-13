@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T14:47:57+02:00",
+  "generatedAt": "2026-11-13T14:16:31+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -613,6 +613,14 @@
     {
       "id": "calendar-uni-big-band",
       "name": "Uni Big Band",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-rtg-3105-college-of-fellows",
+      "name": "RTG 3105, College of Fellows",
       "type": "html",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "selectable": true,
