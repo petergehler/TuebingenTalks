@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T15:31:07+02:00",
+  "generatedAt": "2026-11-18T15:07:31+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -621,6 +621,14 @@
     {
       "id": "calendar-rtg-3105-college-of-fellows",
       "name": "RTG 3105, College of Fellows",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-global-awareness-education",
+      "name": "Global Awareness Education",
       "type": "html",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "selectable": true,
