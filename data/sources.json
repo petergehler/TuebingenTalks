@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T15:07:31+02:00",
+  "generatedAt": "2026-11-19T15:17:49+02:00",
   "sources": [
     {
       "id": "main-university-calendar",
@@ -629,6 +629,30 @@
     {
       "id": "calendar-global-awareness-education",
       "name": "Global Awareness Education",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-philosophische-fakultat-englisches-seminar",
+      "name": "Philosophische Fakultät, Englisches Seminar",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-philosophische-fakultat-seminar-fur-alte-geschichte",
+      "name": "Philosophische Fakultät, Seminar für Alte Geschichte",
+      "type": "html",
+      "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
+      "selectable": true,
+      "hostLogo": "assets/source-logos/university-tuebingen.svg"
+    },
+    {
+      "id": "calendar-philosophische-fakultat-seminar-fur-allgemeine-rhetorik-forschun",
+      "name": "Philosophische Fakultät, Seminar für Allgemeine Rhetorik, Forschungszentrum für Wissenschaftskommunikation (FfW), Forschungsstelle Präsentationskompetenz",
       "type": "html",
       "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/",
       "selectable": true,
